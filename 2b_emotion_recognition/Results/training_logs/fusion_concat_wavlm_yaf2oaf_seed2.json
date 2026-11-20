@@ -1,0 +1,101 @@
+{
+ "variant": "fusion_concat_wavlm",
+ "protocol": "yaf2oaf",
+ "seed": 2,
+ "best_epoch": 3,
+ "best_val_acc": 1.0,
+ "n_params_trainable": 1517347,
+ "history": [
+  {
+   "epoch": 1,
+   "train_loss": 1.5836468188130126,
+   "train_acc": 0.38571428571428573,
+   "val_loss": 0.5905567367871603,
+   "val_acc": 0.8095238095238095
+  },
+  {
+   "epoch": 2,
+   "train_loss": 0.5628226776512302,
+   "train_acc": 0.8877551020408163,
+   "val_loss": 0.03455065632505076,
+   "val_acc": 0.9952380952380953
+  },
+  {
+   "epoch": 3,
+   "train_loss": 0.3189114383288792,
+   "train_acc": 0.9938775510204082,
+   "val_loss": 0.020888200721570424,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 4,
+   "train_loss": 0.29595168245082,
+   "train_acc": 0.9938775510204082,
+   "val_loss": 0.034340617415450865,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 5,
+   "train_loss": 0.2987635919025966,
+   "train_acc": 0.9938775510204082,
+   "val_loss": 0.030057343272935775,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 6,
+   "train_loss": 0.2770438881552949,
+   "train_acc": 1.0,
+   "val_loss": 0.02621912695467472,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 7,
+   "train_loss": 0.2733005939697733,
+   "train_acc": 1.0,
+   "val_loss": 0.028679966518566722,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 8,
+   "train_loss": 0.27202253305182167,
+   "train_acc": 1.0,
+   "val_loss": 0.034980309115988865,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 9,
+   "train_loss": 0.26999764393786996,
+   "train_acc": 1.0,
+   "val_loss": 0.03335470259189606,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 10,
+   "train_loss": 0.27191858656552376,
+   "train_acc": 1.0,
+   "val_loss": 0.03266517037437076,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 11,
+   "train_loss": 0.27301779109604507,
+   "train_acc": 0.9989795918367347,
+   "val_loss": 0.0358255728724457,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 12,
+   "train_loss": 0.2700122439131445,
+   "train_acc": 1.0,
+   "val_loss": 0.03233967285071101,
+   "val_acc": 1.0
+  },
+  {
+   "epoch": 13,
+   "train_loss": 0.2705740182983632,
+   "train_acc": 1.0,
+   "val_loss": 0.02438642414552825,
+   "val_acc": 1.0
+  }
+ ]
+}

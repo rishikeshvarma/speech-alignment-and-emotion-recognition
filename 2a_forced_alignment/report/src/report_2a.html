@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Forced Alignment with MFA: Report</title>
+<style>
+  @page { size: A4; margin: 16mm 16mm 17mm 16mm; }
+  :root { --ink: #111; --muted: #555; --rule: #d9d8d3; --soft: #f5f4f0; }
+  html { font-family: "Segoe UI", Arial, sans-serif; font-size: 9.6pt; line-height: 1.42; color: var(--ink); background: #fff; }
+  body { margin: 0; }
+  h1 { font-size: 19pt; margin: 0 0 2mm; line-height: 1.2; }
+  h2 { font-size: 13pt; margin: 6mm 0 2mm; padding-bottom: 1mm; border-bottom: 1.2px solid var(--ink); break-after: avoid; }
+  h3 { font-size: 10.6pt; margin: 4mm 0 1.5mm; break-after: avoid; }
+  p { margin: 0 0 2.2mm; }
+  ul, ol { margin: 0 0 2.4mm; padding-left: 5mm; }
+  li { margin-bottom: 0.8mm; }
+  code { font-family: Consolas, "Cascadia Mono", monospace; font-size: 8.6pt; background: var(--soft); padding: 0 1px; }
+  pre { font-family: Consolas, "Cascadia Mono", monospace; font-size: 8.1pt; background: var(--soft); padding: 2mm 3mm; margin: 0 0 3mm; white-space: pre-wrap; break-inside: avoid; }
+  table { border-collapse: collapse; width: 100%; margin: 1mm 0 3.5mm; font-size: 8.7pt; }
+  tr { break-inside: avoid; }
+  th, td { border-bottom: 1px solid var(--rule); padding: 1mm 1.6mm; text-align: left; vertical-align: top; }
+  th { border-bottom: 1.2px solid var(--ink); font-weight: 600; }
+  td.n, th.n { text-align: right; font-variant-numeric: tabular-nums; }
+  figure { margin: 2mm 0 4mm; break-inside: avoid; }
+  figure img { width: 100%; display: block; }
+  figcaption { font-size: 8.4pt; color: var(--muted); margin-top: 1mm; }
+  .sub { color: var(--muted); font-size: 10pt; margin-bottom: 4mm; }
+  .box { background: var(--soft); padding: 2.5mm 3.5mm; margin: 2mm 0 4mm; break-inside: avoid; }
+  .box p:last-child { margin-bottom: 0; }
+  .tag { font-weight: 600; }
+  .pb { break-before: page; }
+  .small { font-size: 8.4pt; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<h1>Forced Alignment with the Montreal Forced Aligner</h1>
+<div class="sub">Assignment 2a &middot; six provided recordings &middot; MFA 3.4.3 &middot; November 2026</div>
+
+<div class="box">
+<p><span class="tag">Summary.</span> All six recordings were aligned at word and phone level in six MFA runs,
+using two pretrained acoustic models (<code>english_us_arpa</code>, <code>english_mfa</code>), a MAP-adapted model, a
+boundary fine-tuning pass and a custom dictionary built with MFA's G2P models. The custom dictionary
+removes all five unaligned (<code>spn</code>) words. The ARPA model gives the cleanest alignments.
+<code>english_mfa</code> agrees with it on the news recordings (92&nbsp;% of word boundaries within 20&nbsp;ms) but stretches
+the final consonant over the trailing silence in all three learner recordings. Letting the aligner choose
+between pronunciation variants shows that the non-native speaker said <em>bad</em> as "bet". Formant
+and voicing measurements support this.</p>
+</div>
+
+<h2>1. Data and preparation</h2>
+<table>
+<tr><th>Speaker</th><th>Files</th><th>Content</th><th class="n">Duration</th><th class="n">Words</th></tr>
+<tr><td><code>f2b</code></td><td>F2BJRLP1-3</td><td>BU Radio News corpus, professional announcer reading news paragraphs</td><td class="n">25.3 / 28.6 / 30.7 s</td><td class="n">73 / 74 / 82</td></tr>
+<tr><td><code>isle_sess0131</code></td><td>ISLE_..._0[1-3]</td><td>ISLE corpus, non-native learner reading minimal-pair prompts</td><td class="n">4.1 / 3.9 / 4.5 s</td><td class="n">5 each</td></tr>
+</table>
+<p>MFA expects one folder per speaker holding a <code>.wav</code> and a <code>.lab</code> transcript for each utterance
+(the speaker folders matter because MFA adapts to each speaker with fMLLR). Two fixes were needed first
+(<code>scripts/prepare_corpus.py</code>):</p>
+<ul>
+<li><b>Audio format.</b> The three <code>F2BJRLP*.wav</code> files have no RIFF header. They are NIST SPHERE files
+(header <code>NIST_1A</code>, 16&nbsp;kHz, 16-bit PCM) with a <code>.wav</code> name, which MFA cannot read. They are re-written as RIFF WAV
+with libsndfile. The ISLE files were already 16&nbsp;kHz WAV.</li>
+<li><b>Transcript normalisation.</b> The news transcripts are line-wrapped copy with punctuation and written
+forms that do not match how they were read:</li>
+</ul>
+<table>
+<tr><th>Raw text</th><th>Normalised (what the aligner sees)</th><th>Rule</th></tr>
+<tr><td><code>the S.J.C.'s current leader</code></td><td><code>the s j c's current leader</code></td><td>dotted abbreviation read letter by letter</td></tr>
+<tr><td><code>As WBUR's Margo Melnicove reports,</code></td><td><code>as w b u r's margo melnicove reports</code></td><td>all-caps acronym spelled out; punctuation dropped</td></tr>
+<tr><td><code>In nineteen seventy- six,</code></td><td><code>in nineteen seventy six</code></td><td>number split across a line break</td></tr>
+<tr><td><code>to de-politicize judicial</code></td><td><code>to de politicize judicial</code></td><td>hyphenated word split into dictionary words</td></tr>
+<tr><td><code>I SAID WHITE NOT BAIT</code></td><td><code>i said white not bait</code></td><td>lower-case only (acronym rule skipped for all-caps prompts)</td></tr>
+</table>
+
+<h2>2. Models, dictionaries and runs</h2>
+<p>Both acoustic models are GMM-HMM triphone models with speaker adaptation, the standard MFA pipeline on Kaldi.
+<code>english_us_arpa</code> uses the ARPAbet phone set of CMUdict (39 phones with vowel stress). <code>english_mfa</code> uses MFA's own
+IPA-based phone set and was trained on more and more varied English. Words missing from a dictionary were found
+with <code>mfa g2p --dictionary_path</code>, which tokenises the corpus exactly as the aligner does. Pronunciations
+were generated with the matching G2P model and added to a copy of the stock dictionary with
+<code>mfa model add_words</code>.</p>
+<table>
+<tr><th>Run</th><th>Acoustic model</th><th>Dictionary</th><th>What it tests</th></tr>
+<tr><td><code>arpa_base</code></td><td>english_us_arpa</td><td>english_us_arpa (stock)</td><td>baseline</td></tr>
+<tr><td><code>arpa_g2p</code></td><td>english_us_arpa</td><td>stock + G2P words</td><td><b>main run</b>: custom dictionary</td></tr>
+<tr><td><code>arpa_g2p_finetune</code></td><td>english_us_arpa</td><td>stock + G2P words</td><td><code>--fine_tune</code> boundary refinement</td></tr>
+<tr><td><code>arpa_g2p_adapted</code></td><td>english_us_arpa, MAP-adapted (<code>mfa adapt</code>)</td><td>stock + G2P words</td><td>adaptation to these speakers</td></tr>
+<tr><td><code>mfa_g2p</code></td><td>english_mfa</td><td>english_us_mfa + G2P words</td><td>second acoustic model / phone set</td></tr>
+<tr><td><code>isle_variants</code></td><td>english_us_arpa</td><td>canonical + learner variants</td><td>pronunciation check (Section 5)</td></tr>
+</table>
+<table>
+<tr><th>Missing word</th><th>Missing from</th><th>G2P pronunciation chosen by the aligner (ARPA)</th></tr>
+<tr><td>Dukakis (2&times;)</td><td>both</td><td><code>D UW0 K AA1 K IH0 S</code> / <code>D UW1 K AA1 K IH0 S</code> (5 variants proposed; one picked per occurrence)</td></tr>
+<tr><td>Melnicove</td><td>both</td><td><code>M EH1 L N IH0 K OW2 V</code></td></tr>
+<tr><td>Maffy</td><td>both</td><td><code>M AE1 F IY0</code></td></tr>
+<tr><td>politicize</td><td>both</td><td><code>P AH0 L IH1 T IH0 S AY2 Z</code></td></tr>
+<tr><td>judgeships, Margo</td><td>english_us_mfa only</td><td><code>dʒ ɐ dʒ ʃ ɪ p s</code>, <code>m ɑ ɹ ɡ ow</code></td></tr>
+</table>
+<p>Alignment command (the long news utterances need wider beams than MFA's defaults of 10/40):</p>
+<pre>mfa align corpus dictionaries/english_us_arpa_g2p.dict english_us_arpa outputs/arpa_g2p --beam 100 --retry_beam 400</pre>
+
+<h2>3. Results</h2>
+<p>Every run aligned all six files. With no hand-labelled reference available, quality is judged from MFA's diagnostics,
+from agreement between runs, and from red flags in the TextGrids.</p>
+<table>
+<tr><th>Run</th><th class="n"><code>spn</code> words</th><th class="n">Phones</th><th class="n">Mean phone</th><th class="n">Phones at 30&nbsp;ms floor</th><th class="n">Speech log-lik.</th><th class="n">Word bounds &le;20&nbsp;ms of <code>arpa_g2p</code></th></tr>
+<tr><td><code>arpa_base</code></td><td class="n">5</td><td class="n">1033</td><td class="n">75.5 ms</td><td class="n">7.8 %</td><td class="n">&minus;47.7</td><td class="n">99 %</td></tr>
+<tr><td><code>arpa_g2p</code></td><td class="n"><b>0</b></td><td class="n">1063</td><td class="n">75.8 ms</td><td class="n">7.8 %</td><td class="n">&minus;47.7</td><td class="n">reference</td></tr>
+<tr><td><code>arpa_g2p_finetune</code></td><td class="n">0</td><td class="n">1063</td><td class="n">75.8 ms</td><td class="n">7.9 %</td><td class="n">&minus;47.7</td><td class="n">100 %</td></tr>
+<tr><td><code>arpa_g2p_adapted</code></td><td class="n">0</td><td class="n">1063</td><td class="n">75.8 ms</td><td class="n">7.8 %</td><td class="n">&minus;47.7</td><td class="n">100 %</td></tr>
+<tr><td><code>mfa_g2p</code></td><td class="n">0</td><td class="n">1045</td><td class="n">82.1 ms</td><td class="n">9.4 %</td><td class="n">&minus;44.8</td><td class="n">92 % news / 63 % ISLE</td></tr>
+</table>
+<p class="small">Speech log-likelihood is per frame, from MFA's <code>alignment_analysis.csv</code>. Values are not comparable across
+acoustic models with different phone sets.</p>
+
+<h2>4. Sample alignment visualisations</h2>
+<figure><img src="../../results/plots/F2BJRLP1_arpa_g2p.png">
+<figcaption>Figure 1. Main run on the first 3.5 s of F2BJRLP1, shown like Praat's TextGrid editor (waveform,
+broadband spectrogram, word and phone tiers). Word boundaries are drawn through the spectrogram so they can be
+checked against visible events: stop closures and bursts, the onset of frication, and formant transitions.</figcaption></figure>
+
+<figure><img src="../../results/plots/compare_oov_margo_melnicove.png">
+<figcaption>Figure 2. Effect of the custom dictionary. In the baseline (top), <i>Melnicove</i> is not in the dictionary
+and becomes one <code>spn</code> interval (red) with no phones. With G2P pronunciations, all runs segment it into
+<code>M EH1 L N IH0 K OW2 V</code>, and the surrounding word boundaries stay within 20&nbsp;ms. <i>w b u r's</i> is
+aligned as the spelled-out acronym.</figcaption></figure>
+
+<figure><img src="../../results/plots/compare_isle_white_bait.png">
+<figcaption>Figure 3. The ISLE learner utterance "I said white not bait" in all runs. <code>english_mfa</code> (third
+pair of tiers) leaves out the pause between <i>white</i> and <i>not</i> and stretches the final <code>t</code> of
+<i>bait</i> to the end of the file (2.1&nbsp;s). The ARPA runs place both silences where the spectrogram is empty.</figcaption></figure>
+
+<h2>5. Observations</h2>
+<ol>
+<li><b>The custom dictionary is the change that matters.</b> Without it, five tokens (Dukakis &times;2, Melnicove,
+Maffy, politicize) are unaligned <code>spn</code> blobs. G2P fixes all of them without moving neighbouring boundaries (99&nbsp;%
+within 20&nbsp;ms, maximum 20&nbsp;ms).</li>
+<li><b>Adaptation and fine-tuning are no-ops on this data.</b> Their boundaries match the main run to within one
+10&nbsp;ms frame. About 100&nbsp;s of audio from two speakers barely shifts a model trained on thousands of hours,
+and the stock model already fits clear read speech.</li>
+<li><b>A trailing-silence error in <code>english_mfa</code>.</b> On all three ISLE files the last stop
+(<i>bait</i> <code>t</code>&nbsp;2.1&nbsp;s, <i>bed</i> <code>d</code>&nbsp;2.7&nbsp;s) covers the final silence, and one pause is
+lost. These files end with about 2&nbsp;s of near-silence that this model absorbs into the preceding stop rather
+than labelling it as silence. On the news recordings the two models agree (median word-boundary difference 10&nbsp;ms).</li>
+<li><b>Minimum-duration phones.</b> About 8&nbsp;% of phones sit at the 30&nbsp;ms floor of a 3-state HMM (3 frames of
+10&nbsp;ms). They are mostly reduced function words in fast speech (<i>the</i> = <code>DH AH0</code> in 70&nbsp;ms, <i>of</i>, <i>to</i>),
+where the true segments are shorter than the model can represent. This is the main limit on phone-boundary
+precision.</li>
+<li><b>Pauses.</b> The aligner inserted 13 pauses of 300&nbsp;ms or more in the news paragraphs. 8 fall at a full stop or
+comma of the original text (<i>march.&nbsp;It</i>, <i>court.&nbsp;For</i>, <i>houses.&nbsp;Despite</i>). The other 5 are
+phrase breaks the announcer made without punctuation.</li>
+</ol>
+
+<h3>Pronunciation check on the non-native speaker</h3>
+<p>Forced alignment assumes the speaker produced the canonical pronunciation, so a mispronounced word is still
+aligned as if it were correct. The <code>isle_variants</code> run gives the aligner every prompt word with likely
+learner variants, all equally probable: final devoicing (<code>bad</code> &rarr; <code>B AE1 T</code>), the /&aelig;/&ndash;/&epsilon;/ merger
+(<code>bad</code> &rarr; <code>B EH1 D</code>), and <i>w</i>&rarr;<i>v</i>. The aligner keeps the variant that fits the audio best:</p>
+<table>
+<tr><th>Prompt</th><th>Word</th><th>Canonical</th><th>Chosen</th><th>Reading</th></tr>
+<tr><td>I said <b>bad</b> not bed</td><td>bad</td><td><code>B AE1 D</code></td><td><code>B EH1 T</code></td><td>"bet": vowel merger and final devoicing</td></tr>
+<tr><td>I said <b>new</b> not no</td><td>new</td><td><code>N UW1</code></td><td><code>N Y UW1</code></td><td>British pronunciation (not an error)</td></tr>
+<tr><td colspan="2">all other 13 words</td><td colspan="3">canonical variant chosen</td></tr>
+</table>
+<p>Acoustic measurements agree (<code>scripts/formant_check.py</code>, LPC formants in the middle of each vowel, speaker F0
+&asymp;&nbsp;108&nbsp;Hz):</p>
+<ul>
+<li>F1 of <i>bad</i> is 586&nbsp;Hz against 527&nbsp;Hz for <i>bed</i>, a 60&nbsp;Hz gap. Native male speakers show about
+130&nbsp;Hz between these vowels (660 vs 530&nbsp;Hz, Peterson &amp; Barney). The learner's /&aelig;/ is drawn towards /&epsilon;/.</li>
+<li>The final /d/ closures of both <i>bad</i> and <i>bed</i> have no voiced frames. That is final devoicing, a
+typical feature of German-accented English.</li>
+</ul>
+<p>This is a simple form of pronunciation verification, done with the aligner alone. A proper version would
+score each phone with goodness of pronunciation (GOP) instead of picking from a hand-written variant list.</p>
+
+<h2>6. Reproducibility and extras</h2>
+<ul>
+<li><b>Automated pipeline:</b> <code>python run_pipeline.py --src &lt;data folder&gt;</code> runs preparation, G2P, all six
+alignments, the analysis and the figures (about 7 minutes on CPU).</li>
+<li><b>Custom dictionary:</b> G2P pronunciations for missing words with MFA's <code>english_us_arpa</code> and
+<code>english_us_mfa</code> G2P models, plus a hand-written variant dictionary for the pronunciation check.</li>
+<li><b>Multiple acoustic models:</b> <code>english_us_arpa</code>, <code>english_mfa</code>, and a model MAP-adapted to this corpus.</li>
+<li><b>Outputs:</b> TextGrids in <code>outputs/&lt;run&gt;/&lt;speaker&gt;/</code>. They open in Praat together with the WAVs in <code>corpus/</code>.</li>
+</ul>
+
+</body>
+</html>

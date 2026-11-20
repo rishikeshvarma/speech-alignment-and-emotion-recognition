@@ -1,0 +1,1236 @@
+experiment,utterance,index,word,start,end,phones
+arpa_base,F2BJRLP1,0,wanted,0.54,1.12,W AA1 N T IH0 D
+arpa_base,F2BJRLP1,1,chief,1.28,1.58,CH IY1 F
+arpa_base,F2BJRLP1,2,justice,1.58,2.09,JH AH1 S T AH0 S
+arpa_base,F2BJRLP1,3,of,2.09,2.23,AH0 V
+arpa_base,F2BJRLP1,4,the,2.23,2.31,DH AH0
+arpa_base,F2BJRLP1,5,massachusetts,2.31,3.05,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_base,F2BJRLP1,6,supreme,3.05,3.48,S AH0 P R IY1 M
+arpa_base,F2BJRLP1,7,court,3.48,3.95,K AO1 R T
+arpa_base,F2BJRLP1,8,in,4.16,4.29,IH0 N
+arpa_base,F2BJRLP1,9,april,4.29,4.63,EY1 P R AH0 L
+arpa_base,F2BJRLP1,10,the,4.63,4.8,DH IY0
+arpa_base,F2BJRLP1,11,s,4.8,4.94,EH1 S
+arpa_base,F2BJRLP1,12,j,4.94,5.12,JH EY1
+arpa_base,F2BJRLP1,13,c's,5.12,5.43,S IY1 Z
+arpa_base,F2BJRLP1,14,current,5.43,5.8,K ER1 AH0 N T
+arpa_base,F2BJRLP1,15,leader,5.8,6.13,L IY1 D ER0
+arpa_base,F2BJRLP1,16,edward,6.16,6.48,EH1 D W ER0 D
+arpa_base,F2BJRLP1,17,hennessy,6.48,6.97,HH EH1 N AH0 S IY0
+arpa_base,F2BJRLP1,18,reaches,7.36,7.69,R IY1 CH IH0 Z
+arpa_base,F2BJRLP1,19,the,7.69,7.79,DH AH0
+arpa_base,F2BJRLP1,20,mandatory,7.79,8.41,M AE1 N D AH0 T AO2 R IY0
+arpa_base,F2BJRLP1,21,retirement,8.41,9.04,R IY0 T AY1 ER0 M AH0 N T
+arpa_base,F2BJRLP1,22,age,9.04,9.26,EY1 JH
+arpa_base,F2BJRLP1,23,of,9.26,9.38,AH0 V
+arpa_base,F2BJRLP1,24,seventy,9.38,9.99,S EH1 V AH0 N T IY0
+arpa_base,F2BJRLP1,25,and,10.08,10.21,AE1 N D
+arpa_base,F2BJRLP1,26,a,10.21,10.25,AH0
+arpa_base,F2BJRLP1,27,successor,10.25,10.85,S AH0 K S EH1 S ER0
+arpa_base,F2BJRLP1,28,is,10.85,10.98,IH0 Z
+arpa_base,F2BJRLP1,29,expected,10.98,11.47,IH0 K S P EH1 K T IH0 D
+arpa_base,F2BJRLP1,30,to,11.47,11.55,T IH0
+arpa_base,F2BJRLP1,31,be,11.55,11.65,B IY0
+arpa_base,F2BJRLP1,32,named,11.65,12.01,N EY1 M D
+arpa_base,F2BJRLP1,33,in,12.01,12.15,IH0 N
+arpa_base,F2BJRLP1,34,march,12.15,12.62,M AA1 R CH
+arpa_base,F2BJRLP1,35,it,13.01,13.11,IH1 T
+arpa_base,F2BJRLP1,36,may,13.11,13.25,M EY1
+arpa_base,F2BJRLP1,37,be,13.25,13.37,B IY0
+arpa_base,F2BJRLP1,38,the,13.37,13.46,DH AH0
+arpa_base,F2BJRLP1,39,most,13.46,13.72,M OW1 S T
+arpa_base,F2BJRLP1,40,important,13.72,14.16,IH0 M P AO1 R T AH0 N T
+arpa_base,F2BJRLP1,41,appointment,14.16,14.76,AH0 P OY1 N T M AH0 N T
+arpa_base,F2BJRLP1,42,governor,14.79,15.13,G AH1 V ER0 N ER0
+arpa_base,F2BJRLP1,43,michael,15.13,15.45,M AY1 K AH0 L
+arpa_base,F2BJRLP1,44,dukakis,15.45,16.0,spn
+arpa_base,F2BJRLP1,45,makes,16.0,16.4,M EY1 K S
+arpa_base,F2BJRLP1,46,during,16.71,16.95,D UH1 R IH0 NG
+arpa_base,F2BJRLP1,47,the,16.95,17.02,DH AH0
+arpa_base,F2BJRLP1,48,remainder,17.02,17.51,R IY0 M EY1 N D ER0
+arpa_base,F2BJRLP1,49,of,17.51,17.6,AH0 V
+arpa_base,F2BJRLP1,50,his,17.6,17.77,HH IH0 Z
+arpa_base,F2BJRLP1,51,administration,17.77,18.68,AE0 D M IH2 N IH0 S T R EY1 SH AH0 N
+arpa_base,F2BJRLP1,52,and,18.78,19.0,AE1 N D
+arpa_base,F2BJRLP1,53,one,19.0,19.17,W AH1 N
+arpa_base,F2BJRLP1,54,of,19.17,19.28,AH0 V
+arpa_base,F2BJRLP1,55,the,19.28,19.36,DH AH0
+arpa_base,F2BJRLP1,56,toughest,19.36,19.98,T AH1 F AH0 S T
+arpa_base,F2BJRLP1,57,as,20.36,20.56,EH1 Z
+arpa_base,F2BJRLP1,58,w,20.56,20.9,D AH1 B AH0 L Y UW0
+arpa_base,F2BJRLP1,59,b,20.9,21.01,B IY1
+arpa_base,F2BJRLP1,60,u,21.01,21.19,Y UW1
+arpa_base,F2BJRLP1,61,r's,21.19,21.44,AA1 R Z
+arpa_base,F2BJRLP1,62,margo,21.44,21.75,M AA1 R G OW0
+arpa_base,F2BJRLP1,63,melnicove,21.75,22.28,spn
+arpa_base,F2BJRLP1,64,reports,22.28,22.87,R IH0 P AO1 R T S
+arpa_base,F2BJRLP1,65,hennessy,22.93,23.36,HH EH1 N AH0 S IY0
+arpa_base,F2BJRLP1,66,will,23.36,23.5,W AH0 L
+arpa_base,F2BJRLP1,67,be,23.5,23.67,B IY0
+arpa_base,F2BJRLP1,68,a,23.67,23.77,AH0
+arpa_base,F2BJRLP1,69,hard,23.77,24.09,HH AA1 R D
+arpa_base,F2BJRLP1,70,act,24.13,24.48,AE1 K T
+arpa_base,F2BJRLP1,71,to,24.48,24.58,T AH0
+arpa_base,F2BJRLP1,72,follow,24.58,25.01,F AA1 L OW0
+arpa_base,F2BJRLP2,0,in,0.04,0.17,IH0 N
+arpa_base,F2BJRLP2,1,nineteen,0.17,0.54,N AY1 N T IY1 N
+arpa_base,F2BJRLP2,2,seventy,0.54,0.9,S EH1 V AH0 N T IY0
+arpa_base,F2BJRLP2,3,six,0.9,1.38,S IH1 K S
+arpa_base,F2BJRLP2,4,democratic,1.5,2.05,D EH2 M AH0 K R AE1 T IH0 K
+arpa_base,F2BJRLP2,5,governor,2.05,2.41,G AH1 V ER0 N ER0
+arpa_base,F2BJRLP2,6,michael,2.41,2.73,M AY1 K AH0 L
+arpa_base,F2BJRLP2,7,dukakis,2.73,3.35,spn
+arpa_base,F2BJRLP2,8,fulfilled,3.63,4.06,F UH0 L F IH1 L D
+arpa_base,F2BJRLP2,9,a,4.06,4.12,AH0
+arpa_base,F2BJRLP2,10,campaign,4.12,4.68,K AE0 M P EY1 N
+arpa_base,F2BJRLP2,11,promise,4.68,5.2,P R AA1 M AH0 S
+arpa_base,F2BJRLP2,12,to,5.2,5.42,T UW1
+arpa_base,F2BJRLP2,13,de,5.42,5.66,D IY1
+arpa_base,F2BJRLP2,14,politicize,5.66,6.53,spn
+arpa_base,F2BJRLP2,15,judicial,6.53,7.04,JH UW0 D IH1 SH AH0 L
+arpa_base,F2BJRLP2,16,appointments,7.04,7.75,AH0 P OY1 N T M AH0 N T S
+arpa_base,F2BJRLP2,17,he,8.04,8.16,HH IY1
+arpa_base,F2BJRLP2,18,named,8.16,8.5,N EY1 M D
+arpa_base,F2BJRLP2,19,republican,8.5,9.19,R IY0 P AH1 B L IH0 K AH0 N
+arpa_base,F2BJRLP2,20,edward,9.19,9.55,EH1 D W ER0 D
+arpa_base,F2BJRLP2,21,hennessy,9.55,10.09,HH EH1 N AH0 S IY0
+arpa_base,F2BJRLP2,22,to,10.09,10.26,T UW1
+arpa_base,F2BJRLP2,23,head,10.26,10.52,HH EH1 D
+arpa_base,F2BJRLP2,24,the,10.52,10.61,DH AH0
+arpa_base,F2BJRLP2,25,state,10.61,10.97,S T EY1 T
+arpa_base,F2BJRLP2,26,supreme,10.97,11.4,S AH0 P R IY1 M
+arpa_base,F2BJRLP2,27,judicial,11.4,11.87,JH UW0 D IH1 SH AH0 L
+arpa_base,F2BJRLP2,28,court,11.87,12.33,K AO1 R T
+arpa_base,F2BJRLP2,29,for,13.03,13.2,F R ER0
+arpa_base,F2BJRLP2,30,hennessy,13.2,13.61,HH EH1 N AH0 S IY0
+arpa_base,F2BJRLP2,31,it,13.61,13.72,IH1 T
+arpa_base,F2BJRLP2,32,was,13.72,13.88,W AH0 Z
+arpa_base,F2BJRLP2,33,another,13.88,14.2,AH0 N AH1 DH ER0
+arpa_base,F2BJRLP2,34,step,14.2,14.68,S T EH1 P
+arpa_base,F2BJRLP2,35,along,14.68,15.0,AH0 L AO1 NG
+arpa_base,F2BJRLP2,36,a,15.0,15.05,AH0
+arpa_base,F2BJRLP2,37,distinguished,15.05,15.68,D IH0 S T IH1 NG G W IH0 SH T
+arpa_base,F2BJRLP2,38,career,15.68,16.1,K ER0 IH1 R
+arpa_base,F2BJRLP2,39,that,16.45,16.6,DH AE1 T
+arpa_base,F2BJRLP2,40,began,16.6,17.02,B IH0 G AE1 N
+arpa_base,F2BJRLP2,41,as,17.02,17.17,AE1 Z
+arpa_base,F2BJRLP2,42,a,17.17,17.23,AH0
+arpa_base,F2BJRLP2,43,trial,17.23,17.64,T R AY1 AH0 L
+arpa_base,F2BJRLP2,44,lawyer,17.64,18.09,L AO1 Y ER0
+arpa_base,F2BJRLP2,45,and,18.16,18.34,AE1 N D
+arpa_base,F2BJRLP2,46,led,18.34,18.52,L EH1 D
+arpa_base,F2BJRLP2,47,to,18.52,18.63,T UW1
+arpa_base,F2BJRLP2,48,an,18.63,18.73,AH0 N
+arpa_base,F2BJRLP2,49,appointment,18.73,19.3,AH0 P OY1 N T M AH0 N T
+arpa_base,F2BJRLP2,50,as,19.3,19.49,AE1 Z
+arpa_base,F2BJRLP2,51,associate,19.49,20.14,AH0 S OW1 S IY0 AH0 T
+arpa_base,F2BJRLP2,52,supreme,20.14,20.54,S AH0 P R IY1 M
+arpa_base,F2BJRLP2,53,court,20.54,20.82,K AO1 R T
+arpa_base,F2BJRLP2,54,justice,20.82,21.3,JH AH1 S T AH0 S
+arpa_base,F2BJRLP2,55,in,21.3,21.48,IH0 N
+arpa_base,F2BJRLP2,56,nineteen,21.48,21.89,N AY1 N T IY1 N
+arpa_base,F2BJRLP2,57,seventy,21.89,22.31,S EH1 V AH0 N T IY0
+arpa_base,F2BJRLP2,58,one,22.31,22.65,W AH1 N
+arpa_base,F2BJRLP2,59,that,23.16,23.35,DH AE1 T
+arpa_base,F2BJRLP2,60,year,23.35,23.52,Y IH1 R
+arpa_base,F2BJRLP2,61,thomas,23.52,23.92,T AA1 M AH0 S
+arpa_base,F2BJRLP2,62,maffy,23.92,24.34,spn
+arpa_base,F2BJRLP2,63,now,24.34,24.51,N AW1
+arpa_base,F2BJRLP2,64,president,24.51,25.05,P R EH1 Z IH0 D AH0 N T
+arpa_base,F2BJRLP2,65,of,25.05,25.16,AH0 V
+arpa_base,F2BJRLP2,66,the,25.16,25.23,DH AH0
+arpa_base,F2BJRLP2,67,massachusetts,25.23,25.85,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_base,F2BJRLP2,68,bar,25.85,26.08,B AA1 R
+arpa_base,F2BJRLP2,69,association,26.08,26.86,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_base,F2BJRLP2,70,was,27.2,27.35,W AH0 Z
+arpa_base,F2BJRLP2,71,hennessy's,27.35,27.81,HH EH1 N IH0 S IY0 Z
+arpa_base,F2BJRLP2,72,law,27.81,28.01,L AA1
+arpa_base,F2BJRLP2,73,clerk,28.01,28.47,K L ER1 K
+arpa_base,F2BJRLP3,0,the,0.21,0.36,DH IY0
+arpa_base,F2BJRLP3,1,author,0.36,0.71,AO1 TH ER0
+arpa_base,F2BJRLP3,2,of,0.71,0.87,AH0 V
+arpa_base,F2BJRLP3,3,more,0.87,1.05,M AO1 R
+arpa_base,F2BJRLP3,4,than,1.05,1.23,DH AE1 N
+arpa_base,F2BJRLP3,5,eight,1.23,1.4,EY1 T
+arpa_base,F2BJRLP3,6,hundred,1.4,1.79,HH AH1 N D R AH0 D
+arpa_base,F2BJRLP3,7,state,1.79,2.04,S T EY1 T
+arpa_base,F2BJRLP3,8,supreme,2.04,2.36,S AH0 P R IY1 M
+arpa_base,F2BJRLP3,9,court,2.36,2.59,K AO1 R T
+arpa_base,F2BJRLP3,10,opinions,2.59,3.16,AH0 P IH1 N Y AH0 N Z
+arpa_base,F2BJRLP3,11,hennessy,3.48,3.9,HH EH1 N AH0 S IY0
+arpa_base,F2BJRLP3,12,is,3.9,4.05,IH1 Z
+arpa_base,F2BJRLP3,13,widely,4.05,4.44,W AY1 D L IY0
+arpa_base,F2BJRLP3,14,respected,4.44,5.12,R IY0 S P EH1 K T IH0 D
+arpa_base,F2BJRLP3,15,for,5.12,5.27,F R ER0
+arpa_base,F2BJRLP3,16,his,5.27,5.48,HH IH0 Z
+arpa_base,F2BJRLP3,17,legal,5.48,5.74,L IY1 G AH0 L
+arpa_base,F2BJRLP3,18,scholarship,5.74,6.47,S K AA1 L ER0 SH IH2 P
+arpa_base,F2BJRLP3,19,and,6.5,6.66,AE1 N D
+arpa_base,F2BJRLP3,20,his,6.66,6.84,HH IH0 Z
+arpa_base,F2BJRLP3,21,administrative,6.84,7.49,AH0 D M IH1 N AH0 S T R EY2 T IH0 V
+arpa_base,F2BJRLP3,22,abilities,7.49,8.12,AH0 B IH1 L AH0 T IY0 Z
+arpa_base,F2BJRLP3,23,admirers,8.53,9.26,AH0 D M AY1 R ER0 Z
+arpa_base,F2BJRLP3,24,give,9.26,9.51,G IH1 V
+arpa_base,F2BJRLP3,25,hennessy,9.51,10.0,HH EH1 N AH0 S IY0
+arpa_base,F2BJRLP3,26,much,10.0,10.23,M AH1 CH
+arpa_base,F2BJRLP3,27,of,10.23,10.31,AH0 V
+arpa_base,F2BJRLP3,28,the,10.31,10.39,DH AH0
+arpa_base,F2BJRLP3,29,credit,10.39,10.74,K R EH1 D IH0 T
+arpa_base,F2BJRLP3,30,for,10.99,11.16,F R ER0
+arpa_base,F2BJRLP3,31,sweeping,11.16,11.59,S W IY1 P IH0 NG
+arpa_base,F2BJRLP3,32,court,11.59,11.86,K AO1 R T
+arpa_base,F2BJRLP3,33,reform,11.86,12.42,R IH0 F AO1 R M
+arpa_base,F2BJRLP3,34,that,12.42,12.56,DH AE1 T
+arpa_base,F2BJRLP3,35,began,12.56,12.88,B IH0 G AE1 N
+arpa_base,F2BJRLP3,36,a,12.88,12.93,AH0
+arpa_base,F2BJRLP3,37,decade,12.93,13.31,D EH1 K EY0 D
+arpa_base,F2BJRLP3,38,ago,13.31,13.76,AH0 G OW1
+arpa_base,F2BJRLP3,39,and,13.87,14.06,AE1 N D
+arpa_base,F2BJRLP3,40,for,14.06,14.17,F ER0
+arpa_base,F2BJRLP3,41,last,14.17,14.54,L AE1 S T
+arpa_base,F2BJRLP3,42,year's,14.54,14.82,Y IH1 R Z
+arpa_base,F2BJRLP3,43,legislative,14.82,15.39,L EH1 JH AH0 S L EY2 T IH0 V
+arpa_base,F2BJRLP3,44,approval,15.39,15.96,AH0 P R UW1 V AH0 L
+arpa_base,F2BJRLP3,45,of,16.06,16.19,AH1 V
+arpa_base,F2BJRLP3,46,thirty,16.19,16.54,TH ER1 D IY0
+arpa_base,F2BJRLP3,47,five,16.54,16.93,F AY1 V
+arpa_base,F2BJRLP3,48,new,16.93,17.09,N Y UW1
+arpa_base,F2BJRLP3,49,judgeships,17.09,17.73,JH AH1 JH SH IH2 P S
+arpa_base,F2BJRLP3,50,and,18.05,18.21,AE1 N D
+arpa_base,F2BJRLP3,51,three,18.21,18.42,TH R IY1
+arpa_base,F2BJRLP3,52,hundred,18.42,18.8,HH AH1 N D R AH0 D
+arpa_base,F2BJRLP3,53,million,18.8,19.12,M IH1 L Y AH0 N
+arpa_base,F2BJRLP3,54,dollars,19.12,19.59,D AA1 L ER0 Z
+arpa_base,F2BJRLP3,55,to,19.59,19.73,T AH0
+arpa_base,F2BJRLP3,56,restore,19.73,20.28,R IH0 S T AO1 R
+arpa_base,F2BJRLP3,57,crumbling,20.28,20.8,K R AH1 M B L IH0 NG
+arpa_base,F2BJRLP3,58,court,20.8,21.07,K AO1 R T
+arpa_base,F2BJRLP3,59,houses,21.07,21.63,HH AW1 S AH0 Z
+arpa_base,F2BJRLP3,60,despite,22.17,22.58,D IH0 S P AY1 T
+arpa_base,F2BJRLP3,61,the,22.58,22.67,DH AH0
+arpa_base,F2BJRLP3,62,state's,22.67,23.03,S T EY1 T S
+arpa_base,F2BJRLP3,63,massive,23.03,23.52,M AE1 S IH0 V
+arpa_base,F2BJRLP3,64,budget,23.52,23.88,B AH1 JH IH0 T
+arpa_base,F2BJRLP3,65,deficit,23.88,24.42,D EH1 F AH0 S AH0 T
+arpa_base,F2BJRLP3,66,hennessy,24.79,25.17,HH EH1 N AH0 S IY0
+arpa_base,F2BJRLP3,67,recently,25.17,25.61,R IY1 S AH0 N T L IY0
+arpa_base,F2BJRLP3,68,urged,25.61,25.91,ER1 JH D
+arpa_base,F2BJRLP3,69,colleagues,25.91,26.34,K AA1 L IY0 G Z
+arpa_base,F2BJRLP3,70,in,26.34,26.42,IH0 N
+arpa_base,F2BJRLP3,71,the,26.42,26.49,DH AH0
+arpa_base,F2BJRLP3,72,bar,26.49,26.74,B AA1 R
+arpa_base,F2BJRLP3,73,association,26.74,27.56,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_base,F2BJRLP3,74,not,27.65,27.95,N AA1 T
+arpa_base,F2BJRLP3,75,to,27.95,28.08,T AH0
+arpa_base,F2BJRLP3,76,retreat,28.08,28.59,R IY0 T R IY1 T
+arpa_base,F2BJRLP3,77,from,28.67,28.9,F ER0 M
+arpa_base,F2BJRLP3,78,these,28.9,29.14,DH IY1 Z
+arpa_base,F2BJRLP3,79,hard,29.14,29.48,HH AA1 R D
+arpa_base,F2BJRLP3,80,won,29.48,29.72,W AH1 N
+arpa_base,F2BJRLP3,81,gains,29.72,30.36,G EY1 N Z
+arpa_base,ISLE_SESS0131_BLOCKD02_01_sprt1,0,i,0.44,0.53,AY1
+arpa_base,ISLE_SESS0131_BLOCKD02_01_sprt1,1,said,0.53,0.92,S EH1 D
+arpa_base,ISLE_SESS0131_BLOCKD02_01_sprt1,2,white,0.92,1.33,W AY1 T
+arpa_base,ISLE_SESS0131_BLOCKD02_01_sprt1,3,not,1.48,1.8,N AA1 T
+arpa_base,ISLE_SESS0131_BLOCKD02_01_sprt1,4,bait,1.8,2.25,B EY1 T
+arpa_base,ISLE_SESS0131_BLOCKD02_02_sprt1,0,i,0.62,0.69,AY1
+arpa_base,ISLE_SESS0131_BLOCKD02_02_sprt1,1,said,0.69,1.01,S EH1 D
+arpa_base,ISLE_SESS0131_BLOCKD02_02_sprt1,2,new,1.01,1.42,N Y UW1
+arpa_base,ISLE_SESS0131_BLOCKD02_02_sprt1,3,not,1.45,1.75,N AA1 T
+arpa_base,ISLE_SESS0131_BLOCKD02_02_sprt1,4,no,1.75,2.22,N OW1
+arpa_base,ISLE_SESS0131_BLOCKD02_03_sprt1,0,i,0.22,0.29,AY1
+arpa_base,ISLE_SESS0131_BLOCKD02_03_sprt1,1,said,0.29,0.66,S EH1 D
+arpa_base,ISLE_SESS0131_BLOCKD02_03_sprt1,2,bad,0.66,1.17,B AE1 D
+arpa_base,ISLE_SESS0131_BLOCKD02_03_sprt1,3,not,1.17,1.46,N AA1 T
+arpa_base,ISLE_SESS0131_BLOCKD02_03_sprt1,4,bed,1.49,2.04,B EH1 D
+arpa_g2p,F2BJRLP1,0,wanted,0.54,1.12,W AA1 N T IH0 D
+arpa_g2p,F2BJRLP1,1,chief,1.28,1.58,CH IY1 F
+arpa_g2p,F2BJRLP1,2,justice,1.58,2.09,JH AH1 S T AH0 S
+arpa_g2p,F2BJRLP1,3,of,2.09,2.23,AH0 V
+arpa_g2p,F2BJRLP1,4,the,2.23,2.31,DH AH0
+arpa_g2p,F2BJRLP1,5,massachusetts,2.31,3.05,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_g2p,F2BJRLP1,6,supreme,3.05,3.48,S AH0 P R IY1 M
+arpa_g2p,F2BJRLP1,7,court,3.48,3.95,K AO1 R T
+arpa_g2p,F2BJRLP1,8,in,4.16,4.29,IH0 N
+arpa_g2p,F2BJRLP1,9,april,4.29,4.63,EY1 P R AH0 L
+arpa_g2p,F2BJRLP1,10,the,4.63,4.8,DH IY0
+arpa_g2p,F2BJRLP1,11,s,4.8,4.94,EH1 S
+arpa_g2p,F2BJRLP1,12,j,4.94,5.12,JH EY1
+arpa_g2p,F2BJRLP1,13,c's,5.12,5.43,S IY1 Z
+arpa_g2p,F2BJRLP1,14,current,5.43,5.8,K ER1 AH0 N T
+arpa_g2p,F2BJRLP1,15,leader,5.8,6.13,L IY1 D ER0
+arpa_g2p,F2BJRLP1,16,edward,6.16,6.48,EH1 D W ER0 D
+arpa_g2p,F2BJRLP1,17,hennessy,6.48,6.97,HH EH1 N AH0 S IY0
+arpa_g2p,F2BJRLP1,18,reaches,7.36,7.69,R IY1 CH IH0 Z
+arpa_g2p,F2BJRLP1,19,the,7.69,7.79,DH AH0
+arpa_g2p,F2BJRLP1,20,mandatory,7.79,8.41,M AE1 N D AH0 T AO2 R IY0
+arpa_g2p,F2BJRLP1,21,retirement,8.41,9.04,R IY0 T AY1 ER0 M AH0 N T
+arpa_g2p,F2BJRLP1,22,age,9.04,9.26,EY1 JH
+arpa_g2p,F2BJRLP1,23,of,9.26,9.38,AH0 V
+arpa_g2p,F2BJRLP1,24,seventy,9.38,9.99,S EH1 V AH0 N T IY0
+arpa_g2p,F2BJRLP1,25,and,10.08,10.21,AE1 N D
+arpa_g2p,F2BJRLP1,26,a,10.21,10.25,AH0
+arpa_g2p,F2BJRLP1,27,successor,10.25,10.85,S AH0 K S EH1 S ER0
+arpa_g2p,F2BJRLP1,28,is,10.85,10.98,IH0 Z
+arpa_g2p,F2BJRLP1,29,expected,10.98,11.47,IH0 K S P EH1 K T IH0 D
+arpa_g2p,F2BJRLP1,30,to,11.47,11.55,T IH0
+arpa_g2p,F2BJRLP1,31,be,11.55,11.65,B IY0
+arpa_g2p,F2BJRLP1,32,named,11.65,12.01,N EY1 M D
+arpa_g2p,F2BJRLP1,33,in,12.01,12.15,IH0 N
+arpa_g2p,F2BJRLP1,34,march,12.15,12.62,M AA1 R CH
+arpa_g2p,F2BJRLP1,35,it,13.01,13.11,IH1 T
+arpa_g2p,F2BJRLP1,36,may,13.11,13.25,M EY1
+arpa_g2p,F2BJRLP1,37,be,13.25,13.37,B IY0
+arpa_g2p,F2BJRLP1,38,the,13.37,13.46,DH AH0
+arpa_g2p,F2BJRLP1,39,most,13.46,13.72,M OW1 S T
+arpa_g2p,F2BJRLP1,40,important,13.72,14.16,IH0 M P AO1 R T AH0 N T
+arpa_g2p,F2BJRLP1,41,appointment,14.16,14.76,AH0 P OY1 N T M AH0 N T
+arpa_g2p,F2BJRLP1,42,governor,14.79,15.13,G AH1 V ER0 N ER0
+arpa_g2p,F2BJRLP1,43,michael,15.13,15.44,M AY1 K AH0 L
+arpa_g2p,F2BJRLP1,44,dukakis,15.44,16.01,D UW0 K AA1 K IH0 S
+arpa_g2p,F2BJRLP1,45,makes,16.01,16.4,M EY1 K S
+arpa_g2p,F2BJRLP1,46,during,16.71,16.95,D UH1 R IH0 NG
+arpa_g2p,F2BJRLP1,47,the,16.95,17.02,DH AH0
+arpa_g2p,F2BJRLP1,48,remainder,17.02,17.51,R IY0 M EY1 N D ER0
+arpa_g2p,F2BJRLP1,49,of,17.51,17.6,AH0 V
+arpa_g2p,F2BJRLP1,50,his,17.6,17.77,HH IH0 Z
+arpa_g2p,F2BJRLP1,51,administration,17.77,18.68,AE0 D M IH2 N IH0 S T R EY1 SH AH0 N
+arpa_g2p,F2BJRLP1,52,and,18.78,19.0,AE1 N D
+arpa_g2p,F2BJRLP1,53,one,19.0,19.17,W AH1 N
+arpa_g2p,F2BJRLP1,54,of,19.17,19.28,AH0 V
+arpa_g2p,F2BJRLP1,55,the,19.28,19.36,DH AH0
+arpa_g2p,F2BJRLP1,56,toughest,19.36,19.98,T AH1 F AH0 S T
+arpa_g2p,F2BJRLP1,57,as,20.36,20.56,EH1 Z
+arpa_g2p,F2BJRLP1,58,w,20.56,20.9,D AH1 B AH0 L Y UW0
+arpa_g2p,F2BJRLP1,59,b,20.9,21.01,B IY1
+arpa_g2p,F2BJRLP1,60,u,21.01,21.19,Y UW1
+arpa_g2p,F2BJRLP1,61,r's,21.19,21.44,AA1 R Z
+arpa_g2p,F2BJRLP1,62,margo,21.44,21.74,M AA1 R G OW0
+arpa_g2p,F2BJRLP1,63,melnicove,21.74,22.3,M EH1 L N IH0 K OW2 V
+arpa_g2p,F2BJRLP1,64,reports,22.3,22.87,R IH0 P AO1 R T S
+arpa_g2p,F2BJRLP1,65,hennessy,22.93,23.36,HH EH1 N AH0 S IY0
+arpa_g2p,F2BJRLP1,66,will,23.36,23.5,W AH0 L
+arpa_g2p,F2BJRLP1,67,be,23.5,23.67,B IY0
+arpa_g2p,F2BJRLP1,68,a,23.67,23.77,AH0
+arpa_g2p,F2BJRLP1,69,hard,23.77,24.09,HH AA1 R D
+arpa_g2p,F2BJRLP1,70,act,24.13,24.48,AE1 K T
+arpa_g2p,F2BJRLP1,71,to,24.48,24.58,T AH0
+arpa_g2p,F2BJRLP1,72,follow,24.58,25.01,F AA1 L OW0
+arpa_g2p,F2BJRLP2,0,in,0.04,0.17,IH0 N
+arpa_g2p,F2BJRLP2,1,nineteen,0.17,0.54,N AY1 N T IY1 N
+arpa_g2p,F2BJRLP2,2,seventy,0.54,0.9,S EH1 V AH0 N T IY0
+arpa_g2p,F2BJRLP2,3,six,0.9,1.38,S IH1 K S
+arpa_g2p,F2BJRLP2,4,democratic,1.5,2.05,D EH2 M AH0 K R AE1 T IH0 K
+arpa_g2p,F2BJRLP2,5,governor,2.05,2.41,G AH1 V ER0 N ER0
+arpa_g2p,F2BJRLP2,6,michael,2.41,2.72,M AY1 K AH0 L
+arpa_g2p,F2BJRLP2,7,dukakis,2.72,3.36,D UW1 K AA1 K IH0 S
+arpa_g2p,F2BJRLP2,8,fulfilled,3.63,4.06,F UH0 L F IH1 L D
+arpa_g2p,F2BJRLP2,9,a,4.06,4.12,AH0
+arpa_g2p,F2BJRLP2,10,campaign,4.12,4.68,K AE0 M P EY1 N
+arpa_g2p,F2BJRLP2,11,promise,4.68,5.2,P R AA1 M AH0 S
+arpa_g2p,F2BJRLP2,12,to,5.2,5.42,T UW1
+arpa_g2p,F2BJRLP2,13,de,5.42,5.65,D IY1
+arpa_g2p,F2BJRLP2,14,politicize,5.65,6.51,P AH0 L IH1 T IH0 S AY2 Z
+arpa_g2p,F2BJRLP2,15,judicial,6.51,7.04,JH UW0 D IH1 SH AH0 L
+arpa_g2p,F2BJRLP2,16,appointments,7.04,7.75,AH0 P OY1 N T M AH0 N T S
+arpa_g2p,F2BJRLP2,17,he,8.04,8.16,HH IY1
+arpa_g2p,F2BJRLP2,18,named,8.16,8.5,N EY1 M D
+arpa_g2p,F2BJRLP2,19,republican,8.5,9.19,R IY0 P AH1 B L IH0 K AH0 N
+arpa_g2p,F2BJRLP2,20,edward,9.19,9.55,EH1 D W ER0 D
+arpa_g2p,F2BJRLP2,21,hennessy,9.55,10.09,HH EH1 N AH0 S IY0
+arpa_g2p,F2BJRLP2,22,to,10.09,10.26,T UW1
+arpa_g2p,F2BJRLP2,23,head,10.26,10.52,HH EH1 D
+arpa_g2p,F2BJRLP2,24,the,10.52,10.61,DH AH0
+arpa_g2p,F2BJRLP2,25,state,10.61,10.97,S T EY1 T
+arpa_g2p,F2BJRLP2,26,supreme,10.97,11.4,S AH0 P R IY1 M
+arpa_g2p,F2BJRLP2,27,judicial,11.4,11.87,JH UW0 D IH1 SH AH0 L
+arpa_g2p,F2BJRLP2,28,court,11.87,12.33,K AO1 R T
+arpa_g2p,F2BJRLP2,29,for,13.03,13.2,F R ER0
+arpa_g2p,F2BJRLP2,30,hennessy,13.2,13.62,HH EH1 N AH0 S IY0
+arpa_g2p,F2BJRLP2,31,it,13.62,13.72,IH1 T
+arpa_g2p,F2BJRLP2,32,was,13.72,13.88,W AH0 Z
+arpa_g2p,F2BJRLP2,33,another,13.88,14.2,AH0 N AH1 DH ER0
+arpa_g2p,F2BJRLP2,34,step,14.2,14.68,S T EH1 P
+arpa_g2p,F2BJRLP2,35,along,14.68,15.0,AH0 L AO1 NG
+arpa_g2p,F2BJRLP2,36,a,15.0,15.05,AH0
+arpa_g2p,F2BJRLP2,37,distinguished,15.05,15.68,D IH0 S T IH1 NG G W IH0 SH T
+arpa_g2p,F2BJRLP2,38,career,15.68,16.1,K ER0 IH1 R
+arpa_g2p,F2BJRLP2,39,that,16.45,16.6,DH AE1 T
+arpa_g2p,F2BJRLP2,40,began,16.6,17.02,B IH0 G AE1 N
+arpa_g2p,F2BJRLP2,41,as,17.02,17.17,AE1 Z
+arpa_g2p,F2BJRLP2,42,a,17.17,17.23,AH0
+arpa_g2p,F2BJRLP2,43,trial,17.23,17.64,T R AY1 AH0 L
+arpa_g2p,F2BJRLP2,44,lawyer,17.64,18.09,L AO1 Y ER0
+arpa_g2p,F2BJRLP2,45,and,18.16,18.34,AE1 N D
+arpa_g2p,F2BJRLP2,46,led,18.34,18.52,L EH1 D
+arpa_g2p,F2BJRLP2,47,to,18.52,18.63,T UW1
+arpa_g2p,F2BJRLP2,48,an,18.63,18.73,AH0 N
+arpa_g2p,F2BJRLP2,49,appointment,18.73,19.3,AH0 P OY1 N T M AH0 N T
+arpa_g2p,F2BJRLP2,50,as,19.3,19.49,AE1 Z
+arpa_g2p,F2BJRLP2,51,associate,19.49,20.14,AH0 S OW1 S IY0 AH0 T
+arpa_g2p,F2BJRLP2,52,supreme,20.14,20.54,S AH0 P R IY1 M
+arpa_g2p,F2BJRLP2,53,court,20.54,20.82,K AO1 R T
+arpa_g2p,F2BJRLP2,54,justice,20.82,21.3,JH AH1 S T AH0 S
+arpa_g2p,F2BJRLP2,55,in,21.3,21.48,IH0 N
+arpa_g2p,F2BJRLP2,56,nineteen,21.48,21.89,N AY1 N T IY1 N
+arpa_g2p,F2BJRLP2,57,seventy,21.89,22.31,S EH1 V AH0 N T IY0
+arpa_g2p,F2BJRLP2,58,one,22.31,22.65,W AH1 N
+arpa_g2p,F2BJRLP2,59,that,23.16,23.35,DH AE1 T
+arpa_g2p,F2BJRLP2,60,year,23.35,23.52,Y IH1 R
+arpa_g2p,F2BJRLP2,61,thomas,23.52,23.94,T AA1 M AH0 S
+arpa_g2p,F2BJRLP2,62,maffy,23.94,24.33,M AE1 F IY0
+arpa_g2p,F2BJRLP2,63,now,24.33,24.51,N AW1
+arpa_g2p,F2BJRLP2,64,president,24.51,25.05,P R EH1 Z IH0 D AH0 N T
+arpa_g2p,F2BJRLP2,65,of,25.05,25.15,AH0 V
+arpa_g2p,F2BJRLP2,66,the,25.15,25.23,DH AH0
+arpa_g2p,F2BJRLP2,67,massachusetts,25.23,25.85,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_g2p,F2BJRLP2,68,bar,25.85,26.08,B AA1 R
+arpa_g2p,F2BJRLP2,69,association,26.08,26.86,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_g2p,F2BJRLP2,70,was,27.2,27.35,W AH0 Z
+arpa_g2p,F2BJRLP2,71,hennessy's,27.35,27.81,HH EH1 N IH0 S IY0 Z
+arpa_g2p,F2BJRLP2,72,law,27.81,28.01,L AA1
+arpa_g2p,F2BJRLP2,73,clerk,28.01,28.47,K L ER1 K
+arpa_g2p,F2BJRLP3,0,the,0.21,0.36,DH IY0
+arpa_g2p,F2BJRLP3,1,author,0.36,0.71,AO1 TH ER0
+arpa_g2p,F2BJRLP3,2,of,0.71,0.87,AH0 V
+arpa_g2p,F2BJRLP3,3,more,0.87,1.05,M AO1 R
+arpa_g2p,F2BJRLP3,4,than,1.05,1.23,DH AE1 N
+arpa_g2p,F2BJRLP3,5,eight,1.23,1.4,EY1 T
+arpa_g2p,F2BJRLP3,6,hundred,1.4,1.8,HH AH1 N D R AH0 D
+arpa_g2p,F2BJRLP3,7,state,1.8,2.04,S T EY1 T
+arpa_g2p,F2BJRLP3,8,supreme,2.04,2.36,S AH0 P R IY1 M
+arpa_g2p,F2BJRLP3,9,court,2.36,2.59,K AO1 R T
+arpa_g2p,F2BJRLP3,10,opinions,2.59,3.16,AH0 P IH1 N Y AH0 N Z
+arpa_g2p,F2BJRLP3,11,hennessy,3.48,3.9,HH EH1 N AH0 S IY0
+arpa_g2p,F2BJRLP3,12,is,3.9,4.05,IH1 Z
+arpa_g2p,F2BJRLP3,13,widely,4.05,4.44,W AY1 D L IY0
+arpa_g2p,F2BJRLP3,14,respected,4.44,5.12,R IY0 S P EH1 K T IH0 D
+arpa_g2p,F2BJRLP3,15,for,5.12,5.27,F R ER0
+arpa_g2p,F2BJRLP3,16,his,5.27,5.48,HH IH0 Z
+arpa_g2p,F2BJRLP3,17,legal,5.48,5.74,L IY1 G AH0 L
+arpa_g2p,F2BJRLP3,18,scholarship,5.74,6.47,S K AA1 L ER0 SH IH2 P
+arpa_g2p,F2BJRLP3,19,and,6.5,6.66,AE1 N D
+arpa_g2p,F2BJRLP3,20,his,6.66,6.84,HH IH0 Z
+arpa_g2p,F2BJRLP3,21,administrative,6.84,7.49,AH0 D M IH1 N AH0 S T R EY2 T IH0 V
+arpa_g2p,F2BJRLP3,22,abilities,7.49,8.12,AH0 B IH1 L AH0 T IY0 Z
+arpa_g2p,F2BJRLP3,23,admirers,8.53,9.26,AH0 D M AY1 R ER0 Z
+arpa_g2p,F2BJRLP3,24,give,9.26,9.51,G IH1 V
+arpa_g2p,F2BJRLP3,25,hennessy,9.51,10.0,HH EH1 N AH0 S IY0
+arpa_g2p,F2BJRLP3,26,much,10.0,10.23,M AH1 CH
+arpa_g2p,F2BJRLP3,27,of,10.23,10.31,AH0 V
+arpa_g2p,F2BJRLP3,28,the,10.31,10.39,DH AH0
+arpa_g2p,F2BJRLP3,29,credit,10.39,10.74,K R EH1 D IH0 T
+arpa_g2p,F2BJRLP3,30,for,10.99,11.16,F R ER0
+arpa_g2p,F2BJRLP3,31,sweeping,11.16,11.59,S W IY1 P IH0 NG
+arpa_g2p,F2BJRLP3,32,court,11.59,11.86,K AO1 R T
+arpa_g2p,F2BJRLP3,33,reform,11.86,12.42,R IH0 F AO1 R M
+arpa_g2p,F2BJRLP3,34,that,12.42,12.56,DH AE1 T
+arpa_g2p,F2BJRLP3,35,began,12.56,12.88,B IH0 G AE1 N
+arpa_g2p,F2BJRLP3,36,a,12.88,12.93,AH0
+arpa_g2p,F2BJRLP3,37,decade,12.93,13.31,D EH1 K EY0 D
+arpa_g2p,F2BJRLP3,38,ago,13.31,13.76,AH0 G OW1
+arpa_g2p,F2BJRLP3,39,and,13.87,14.06,AE1 N D
+arpa_g2p,F2BJRLP3,40,for,14.06,14.17,F ER0
+arpa_g2p,F2BJRLP3,41,last,14.17,14.54,L AE1 S T
+arpa_g2p,F2BJRLP3,42,year's,14.54,14.82,Y IH1 R Z
+arpa_g2p,F2BJRLP3,43,legislative,14.82,15.39,L EH1 JH AH0 S L EY2 T IH0 V
+arpa_g2p,F2BJRLP3,44,approval,15.39,15.96,AH0 P R UW1 V AH0 L
+arpa_g2p,F2BJRLP3,45,of,16.06,16.19,AH1 V
+arpa_g2p,F2BJRLP3,46,thirty,16.19,16.54,TH ER1 D IY0
+arpa_g2p,F2BJRLP3,47,five,16.54,16.93,F AY1 V
+arpa_g2p,F2BJRLP3,48,new,16.93,17.09,N Y UW1
+arpa_g2p,F2BJRLP3,49,judgeships,17.09,17.73,JH AH1 JH SH IH2 P S
+arpa_g2p,F2BJRLP3,50,and,18.05,18.21,AE1 N D
+arpa_g2p,F2BJRLP3,51,three,18.21,18.42,TH R IY1
+arpa_g2p,F2BJRLP3,52,hundred,18.42,18.8,HH AH1 N D R AH0 D
+arpa_g2p,F2BJRLP3,53,million,18.8,19.12,M IH1 L Y AH0 N
+arpa_g2p,F2BJRLP3,54,dollars,19.12,19.59,D AA1 L ER0 Z
+arpa_g2p,F2BJRLP3,55,to,19.59,19.73,T AH0
+arpa_g2p,F2BJRLP3,56,restore,19.73,20.28,R IH0 S T AO1 R
+arpa_g2p,F2BJRLP3,57,crumbling,20.28,20.8,K R AH1 M B L IH0 NG
+arpa_g2p,F2BJRLP3,58,court,20.8,21.07,K AO1 R T
+arpa_g2p,F2BJRLP3,59,houses,21.07,21.63,HH AW1 S AH0 Z
+arpa_g2p,F2BJRLP3,60,despite,22.17,22.58,D IH0 S P AY1 T
+arpa_g2p,F2BJRLP3,61,the,22.58,22.67,DH AH0
+arpa_g2p,F2BJRLP3,62,state's,22.67,23.03,S T EY1 T S
+arpa_g2p,F2BJRLP3,63,massive,23.03,23.52,M AE1 S IH0 V
+arpa_g2p,F2BJRLP3,64,budget,23.52,23.88,B AH1 JH IH0 T
+arpa_g2p,F2BJRLP3,65,deficit,23.88,24.42,D EH1 F AH0 S AH0 T
+arpa_g2p,F2BJRLP3,66,hennessy,24.79,25.17,HH EH1 N AH0 S IY0
+arpa_g2p,F2BJRLP3,67,recently,25.17,25.61,R IY1 S AH0 N T L IY0
+arpa_g2p,F2BJRLP3,68,urged,25.61,25.91,ER1 JH D
+arpa_g2p,F2BJRLP3,69,colleagues,25.91,26.34,K AA1 L IY0 G Z
+arpa_g2p,F2BJRLP3,70,in,26.34,26.42,IH0 N
+arpa_g2p,F2BJRLP3,71,the,26.42,26.49,DH AH0
+arpa_g2p,F2BJRLP3,72,bar,26.49,26.74,B AA1 R
+arpa_g2p,F2BJRLP3,73,association,26.74,27.56,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_g2p,F2BJRLP3,74,not,27.65,27.95,N AA1 T
+arpa_g2p,F2BJRLP3,75,to,27.95,28.08,T AH0
+arpa_g2p,F2BJRLP3,76,retreat,28.08,28.59,R IY0 T R IY1 T
+arpa_g2p,F2BJRLP3,77,from,28.67,28.9,F ER0 M
+arpa_g2p,F2BJRLP3,78,these,28.9,29.14,DH IY1 Z
+arpa_g2p,F2BJRLP3,79,hard,29.14,29.48,HH AA1 R D
+arpa_g2p,F2BJRLP3,80,won,29.48,29.72,W AH1 N
+arpa_g2p,F2BJRLP3,81,gains,29.72,30.36,G EY1 N Z
+arpa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,0,i,0.44,0.53,AY1
+arpa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,1,said,0.53,0.92,S EH1 D
+arpa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,2,white,0.92,1.33,W AY1 T
+arpa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,3,not,1.48,1.8,N AA1 T
+arpa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,4,bait,1.8,2.25,B EY1 T
+arpa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,0,i,0.62,0.69,AY1
+arpa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,1,said,0.69,1.01,S EH1 D
+arpa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,2,new,1.01,1.42,N Y UW1
+arpa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,3,not,1.45,1.75,N AA1 T
+arpa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,4,no,1.75,2.22,N OW1
+arpa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,0,i,0.22,0.29,AY1
+arpa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,1,said,0.29,0.66,S EH1 D
+arpa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,2,bad,0.66,1.17,B AE1 D
+arpa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,3,not,1.17,1.46,N AA1 T
+arpa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,4,bed,1.49,2.04,B EH1 D
+arpa_g2p_adapted,F2BJRLP1,0,wanted,0.54,1.12,W AA1 N T IH0 D
+arpa_g2p_adapted,F2BJRLP1,1,chief,1.28,1.58,CH IY1 F
+arpa_g2p_adapted,F2BJRLP1,2,justice,1.58,2.09,JH AH1 S T AH0 S
+arpa_g2p_adapted,F2BJRLP1,3,of,2.09,2.23,AH0 V
+arpa_g2p_adapted,F2BJRLP1,4,the,2.23,2.31,DH AH0
+arpa_g2p_adapted,F2BJRLP1,5,massachusetts,2.31,3.05,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_g2p_adapted,F2BJRLP1,6,supreme,3.05,3.48,S AH0 P R IY1 M
+arpa_g2p_adapted,F2BJRLP1,7,court,3.48,3.95,K AO1 R T
+arpa_g2p_adapted,F2BJRLP1,8,in,4.16,4.29,IH0 N
+arpa_g2p_adapted,F2BJRLP1,9,april,4.29,4.63,EY1 P R AH0 L
+arpa_g2p_adapted,F2BJRLP1,10,the,4.63,4.8,DH IY0
+arpa_g2p_adapted,F2BJRLP1,11,s,4.8,4.94,EH1 S
+arpa_g2p_adapted,F2BJRLP1,12,j,4.94,5.12,JH EY1
+arpa_g2p_adapted,F2BJRLP1,13,c's,5.12,5.43,S IY1 Z
+arpa_g2p_adapted,F2BJRLP1,14,current,5.43,5.8,K ER1 AH0 N T
+arpa_g2p_adapted,F2BJRLP1,15,leader,5.8,6.13,L IY1 D ER0
+arpa_g2p_adapted,F2BJRLP1,16,edward,6.16,6.48,EH1 D W ER0 D
+arpa_g2p_adapted,F2BJRLP1,17,hennessy,6.48,6.97,HH EH1 N AH0 S IY0
+arpa_g2p_adapted,F2BJRLP1,18,reaches,7.36,7.69,R IY1 CH IH0 Z
+arpa_g2p_adapted,F2BJRLP1,19,the,7.69,7.79,DH AH0
+arpa_g2p_adapted,F2BJRLP1,20,mandatory,7.79,8.41,M AE1 N D AH0 T AO2 R IY0
+arpa_g2p_adapted,F2BJRLP1,21,retirement,8.41,9.04,R IY0 T AY1 ER0 M AH0 N T
+arpa_g2p_adapted,F2BJRLP1,22,age,9.04,9.26,EY1 JH
+arpa_g2p_adapted,F2BJRLP1,23,of,9.26,9.38,AH0 V
+arpa_g2p_adapted,F2BJRLP1,24,seventy,9.38,9.99,S EH1 V AH0 N T IY0
+arpa_g2p_adapted,F2BJRLP1,25,and,10.08,10.21,AE1 N D
+arpa_g2p_adapted,F2BJRLP1,26,a,10.21,10.25,AH0
+arpa_g2p_adapted,F2BJRLP1,27,successor,10.25,10.85,S AH0 K S EH1 S ER0
+arpa_g2p_adapted,F2BJRLP1,28,is,10.85,10.98,IH0 Z
+arpa_g2p_adapted,F2BJRLP1,29,expected,10.98,11.47,IH0 K S P EH1 K T IH0 D
+arpa_g2p_adapted,F2BJRLP1,30,to,11.47,11.55,T IH0
+arpa_g2p_adapted,F2BJRLP1,31,be,11.55,11.65,B IY0
+arpa_g2p_adapted,F2BJRLP1,32,named,11.65,12.01,N EY1 M D
+arpa_g2p_adapted,F2BJRLP1,33,in,12.01,12.15,IH0 N
+arpa_g2p_adapted,F2BJRLP1,34,march,12.15,12.62,M AA1 R CH
+arpa_g2p_adapted,F2BJRLP1,35,it,13.01,13.11,IH1 T
+arpa_g2p_adapted,F2BJRLP1,36,may,13.11,13.25,M EY1
+arpa_g2p_adapted,F2BJRLP1,37,be,13.25,13.37,B IY0
+arpa_g2p_adapted,F2BJRLP1,38,the,13.37,13.46,DH AH0
+arpa_g2p_adapted,F2BJRLP1,39,most,13.46,13.72,M OW1 S T
+arpa_g2p_adapted,F2BJRLP1,40,important,13.72,14.16,IH0 M P AO1 R T AH0 N T
+arpa_g2p_adapted,F2BJRLP1,41,appointment,14.16,14.76,AH0 P OY1 N T M AH0 N T
+arpa_g2p_adapted,F2BJRLP1,42,governor,14.79,15.13,G AH1 V ER0 N ER0
+arpa_g2p_adapted,F2BJRLP1,43,michael,15.13,15.44,M AY1 K AH0 L
+arpa_g2p_adapted,F2BJRLP1,44,dukakis,15.44,16.01,D UW0 K AA1 K IH0 S
+arpa_g2p_adapted,F2BJRLP1,45,makes,16.01,16.4,M EY1 K S
+arpa_g2p_adapted,F2BJRLP1,46,during,16.71,16.95,D UH1 R IH0 NG
+arpa_g2p_adapted,F2BJRLP1,47,the,16.95,17.02,DH AH0
+arpa_g2p_adapted,F2BJRLP1,48,remainder,17.02,17.51,R IY0 M EY1 N D ER0
+arpa_g2p_adapted,F2BJRLP1,49,of,17.51,17.6,AH0 V
+arpa_g2p_adapted,F2BJRLP1,50,his,17.6,17.77,HH IH0 Z
+arpa_g2p_adapted,F2BJRLP1,51,administration,17.77,18.68,AE0 D M IH2 N IH0 S T R EY1 SH AH0 N
+arpa_g2p_adapted,F2BJRLP1,52,and,18.78,19.0,AE1 N D
+arpa_g2p_adapted,F2BJRLP1,53,one,19.0,19.17,W AH1 N
+arpa_g2p_adapted,F2BJRLP1,54,of,19.17,19.28,AH0 V
+arpa_g2p_adapted,F2BJRLP1,55,the,19.28,19.36,DH AH0
+arpa_g2p_adapted,F2BJRLP1,56,toughest,19.36,19.98,T AH1 F AH0 S T
+arpa_g2p_adapted,F2BJRLP1,57,as,20.36,20.56,EH1 Z
+arpa_g2p_adapted,F2BJRLP1,58,w,20.56,20.9,D AH1 B AH0 L Y UW0
+arpa_g2p_adapted,F2BJRLP1,59,b,20.9,21.01,B IY1
+arpa_g2p_adapted,F2BJRLP1,60,u,21.01,21.19,Y UW1
+arpa_g2p_adapted,F2BJRLP1,61,r's,21.19,21.44,AA1 R Z
+arpa_g2p_adapted,F2BJRLP1,62,margo,21.44,21.74,M AA1 R G OW0
+arpa_g2p_adapted,F2BJRLP1,63,melnicove,21.74,22.3,M EH1 L N IH0 K OW2 V
+arpa_g2p_adapted,F2BJRLP1,64,reports,22.3,22.87,R IH0 P AO1 R T S
+arpa_g2p_adapted,F2BJRLP1,65,hennessy,22.93,23.36,HH EH1 N AH0 S IY0
+arpa_g2p_adapted,F2BJRLP1,66,will,23.36,23.5,W AH0 L
+arpa_g2p_adapted,F2BJRLP1,67,be,23.5,23.67,B IY0
+arpa_g2p_adapted,F2BJRLP1,68,a,23.67,23.77,AH0
+arpa_g2p_adapted,F2BJRLP1,69,hard,23.77,24.09,HH AA1 R D
+arpa_g2p_adapted,F2BJRLP1,70,act,24.13,24.48,AE1 K T
+arpa_g2p_adapted,F2BJRLP1,71,to,24.48,24.58,T AH0
+arpa_g2p_adapted,F2BJRLP1,72,follow,24.58,25.01,F AA1 L OW0
+arpa_g2p_adapted,F2BJRLP2,0,in,0.04,0.17,IH0 N
+arpa_g2p_adapted,F2BJRLP2,1,nineteen,0.17,0.54,N AY1 N T IY1 N
+arpa_g2p_adapted,F2BJRLP2,2,seventy,0.54,0.9,S EH1 V AH0 N T IY0
+arpa_g2p_adapted,F2BJRLP2,3,six,0.9,1.38,S IH1 K S
+arpa_g2p_adapted,F2BJRLP2,4,democratic,1.5,2.05,D EH2 M AH0 K R AE1 T IH0 K
+arpa_g2p_adapted,F2BJRLP2,5,governor,2.05,2.41,G AH1 V ER0 N ER0
+arpa_g2p_adapted,F2BJRLP2,6,michael,2.41,2.72,M AY1 K AH0 L
+arpa_g2p_adapted,F2BJRLP2,7,dukakis,2.72,3.36,D UW1 K AA1 K IH0 S
+arpa_g2p_adapted,F2BJRLP2,8,fulfilled,3.63,4.06,F UH0 L F IH1 L D
+arpa_g2p_adapted,F2BJRLP2,9,a,4.06,4.12,AH0
+arpa_g2p_adapted,F2BJRLP2,10,campaign,4.12,4.68,K AE0 M P EY1 N
+arpa_g2p_adapted,F2BJRLP2,11,promise,4.68,5.2,P R AA1 M AH0 S
+arpa_g2p_adapted,F2BJRLP2,12,to,5.2,5.42,T UW1
+arpa_g2p_adapted,F2BJRLP2,13,de,5.42,5.65,D IY1
+arpa_g2p_adapted,F2BJRLP2,14,politicize,5.65,6.51,P AH0 L IH1 T IH0 S AY2 Z
+arpa_g2p_adapted,F2BJRLP2,15,judicial,6.51,7.04,JH UW0 D IH1 SH AH0 L
+arpa_g2p_adapted,F2BJRLP2,16,appointments,7.04,7.75,AH0 P OY1 N T M AH0 N T S
+arpa_g2p_adapted,F2BJRLP2,17,he,8.04,8.16,HH IY1
+arpa_g2p_adapted,F2BJRLP2,18,named,8.16,8.5,N EY1 M D
+arpa_g2p_adapted,F2BJRLP2,19,republican,8.5,9.19,R IY0 P AH1 B L IH0 K AH0 N
+arpa_g2p_adapted,F2BJRLP2,20,edward,9.19,9.55,EH1 D W ER0 D
+arpa_g2p_adapted,F2BJRLP2,21,hennessy,9.55,10.09,HH EH1 N AH0 S IY0
+arpa_g2p_adapted,F2BJRLP2,22,to,10.09,10.26,T UW1
+arpa_g2p_adapted,F2BJRLP2,23,head,10.26,10.52,HH EH1 D
+arpa_g2p_adapted,F2BJRLP2,24,the,10.52,10.61,DH AH0
+arpa_g2p_adapted,F2BJRLP2,25,state,10.61,10.97,S T EY1 T
+arpa_g2p_adapted,F2BJRLP2,26,supreme,10.97,11.4,S AH0 P R IY1 M
+arpa_g2p_adapted,F2BJRLP2,27,judicial,11.4,11.87,JH UW0 D IH1 SH AH0 L
+arpa_g2p_adapted,F2BJRLP2,28,court,11.87,12.33,K AO1 R T
+arpa_g2p_adapted,F2BJRLP2,29,for,13.03,13.2,F R ER0
+arpa_g2p_adapted,F2BJRLP2,30,hennessy,13.2,13.61,HH EH1 N AH0 S IY0
+arpa_g2p_adapted,F2BJRLP2,31,it,13.61,13.72,IH1 T
+arpa_g2p_adapted,F2BJRLP2,32,was,13.72,13.88,W AH0 Z
+arpa_g2p_adapted,F2BJRLP2,33,another,13.88,14.2,AH0 N AH1 DH ER0
+arpa_g2p_adapted,F2BJRLP2,34,step,14.2,14.68,S T EH1 P
+arpa_g2p_adapted,F2BJRLP2,35,along,14.68,15.0,AH0 L AO1 NG
+arpa_g2p_adapted,F2BJRLP2,36,a,15.0,15.05,AH0
+arpa_g2p_adapted,F2BJRLP2,37,distinguished,15.05,15.68,D IH0 S T IH1 NG G W IH0 SH T
+arpa_g2p_adapted,F2BJRLP2,38,career,15.68,16.1,K ER0 IH1 R
+arpa_g2p_adapted,F2BJRLP2,39,that,16.45,16.6,DH AE1 T
+arpa_g2p_adapted,F2BJRLP2,40,began,16.6,17.02,B IH0 G AE1 N
+arpa_g2p_adapted,F2BJRLP2,41,as,17.02,17.17,AE1 Z
+arpa_g2p_adapted,F2BJRLP2,42,a,17.17,17.23,AH0
+arpa_g2p_adapted,F2BJRLP2,43,trial,17.23,17.64,T R AY1 AH0 L
+arpa_g2p_adapted,F2BJRLP2,44,lawyer,17.64,18.09,L AO1 Y ER0
+arpa_g2p_adapted,F2BJRLP2,45,and,18.16,18.34,AE1 N D
+arpa_g2p_adapted,F2BJRLP2,46,led,18.34,18.52,L EH1 D
+arpa_g2p_adapted,F2BJRLP2,47,to,18.52,18.63,T UW1
+arpa_g2p_adapted,F2BJRLP2,48,an,18.63,18.73,AH0 N
+arpa_g2p_adapted,F2BJRLP2,49,appointment,18.73,19.3,AH0 P OY1 N T M AH0 N T
+arpa_g2p_adapted,F2BJRLP2,50,as,19.3,19.49,AE1 Z
+arpa_g2p_adapted,F2BJRLP2,51,associate,19.49,20.14,AH0 S OW1 S IY0 AH0 T
+arpa_g2p_adapted,F2BJRLP2,52,supreme,20.14,20.54,S AH0 P R IY1 M
+arpa_g2p_adapted,F2BJRLP2,53,court,20.54,20.82,K AO1 R T
+arpa_g2p_adapted,F2BJRLP2,54,justice,20.82,21.3,JH AH1 S T AH0 S
+arpa_g2p_adapted,F2BJRLP2,55,in,21.3,21.48,IH0 N
+arpa_g2p_adapted,F2BJRLP2,56,nineteen,21.48,21.89,N AY1 N T IY1 N
+arpa_g2p_adapted,F2BJRLP2,57,seventy,21.89,22.31,S EH1 V AH0 N T IY0
+arpa_g2p_adapted,F2BJRLP2,58,one,22.31,22.65,W AH1 N
+arpa_g2p_adapted,F2BJRLP2,59,that,23.16,23.35,DH AE1 T
+arpa_g2p_adapted,F2BJRLP2,60,year,23.35,23.52,Y IH1 R
+arpa_g2p_adapted,F2BJRLP2,61,thomas,23.52,23.94,T AA1 M AH0 S
+arpa_g2p_adapted,F2BJRLP2,62,maffy,23.94,24.33,M AE1 F IY0
+arpa_g2p_adapted,F2BJRLP2,63,now,24.33,24.51,N AW1
+arpa_g2p_adapted,F2BJRLP2,64,president,24.51,25.05,P R EH1 Z IH0 D AH0 N T
+arpa_g2p_adapted,F2BJRLP2,65,of,25.05,25.16,AH0 V
+arpa_g2p_adapted,F2BJRLP2,66,the,25.16,25.23,DH AH0
+arpa_g2p_adapted,F2BJRLP2,67,massachusetts,25.23,25.85,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_g2p_adapted,F2BJRLP2,68,bar,25.85,26.08,B AA1 R
+arpa_g2p_adapted,F2BJRLP2,69,association,26.08,26.86,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_g2p_adapted,F2BJRLP2,70,was,27.2,27.35,W AH0 Z
+arpa_g2p_adapted,F2BJRLP2,71,hennessy's,27.35,27.81,HH EH1 N IH0 S IY0 Z
+arpa_g2p_adapted,F2BJRLP2,72,law,27.81,28.01,L AA1
+arpa_g2p_adapted,F2BJRLP2,73,clerk,28.01,28.47,K L ER1 K
+arpa_g2p_adapted,F2BJRLP3,0,the,0.21,0.36,DH IY0
+arpa_g2p_adapted,F2BJRLP3,1,author,0.36,0.71,AO1 TH ER0
+arpa_g2p_adapted,F2BJRLP3,2,of,0.71,0.87,AH0 V
+arpa_g2p_adapted,F2BJRLP3,3,more,0.87,1.05,M AO1 R
+arpa_g2p_adapted,F2BJRLP3,4,than,1.05,1.23,DH AE1 N
+arpa_g2p_adapted,F2BJRLP3,5,eight,1.23,1.4,EY1 T
+arpa_g2p_adapted,F2BJRLP3,6,hundred,1.4,1.79,HH AH1 N D R AH0 D
+arpa_g2p_adapted,F2BJRLP3,7,state,1.79,2.04,S T EY1 T
+arpa_g2p_adapted,F2BJRLP3,8,supreme,2.04,2.36,S AH0 P R IY1 M
+arpa_g2p_adapted,F2BJRLP3,9,court,2.36,2.59,K AO1 R T
+arpa_g2p_adapted,F2BJRLP3,10,opinions,2.59,3.16,AH0 P IH1 N Y AH0 N Z
+arpa_g2p_adapted,F2BJRLP3,11,hennessy,3.48,3.9,HH EH1 N AH0 S IY0
+arpa_g2p_adapted,F2BJRLP3,12,is,3.9,4.05,IH1 Z
+arpa_g2p_adapted,F2BJRLP3,13,widely,4.05,4.44,W AY1 D L IY0
+arpa_g2p_adapted,F2BJRLP3,14,respected,4.44,5.12,R IY0 S P EH1 K T IH0 D
+arpa_g2p_adapted,F2BJRLP3,15,for,5.12,5.27,F R ER0
+arpa_g2p_adapted,F2BJRLP3,16,his,5.27,5.48,HH IH0 Z
+arpa_g2p_adapted,F2BJRLP3,17,legal,5.48,5.74,L IY1 G AH0 L
+arpa_g2p_adapted,F2BJRLP3,18,scholarship,5.74,6.47,S K AA1 L ER0 SH IH2 P
+arpa_g2p_adapted,F2BJRLP3,19,and,6.5,6.66,AE1 N D
+arpa_g2p_adapted,F2BJRLP3,20,his,6.66,6.84,HH IH0 Z
+arpa_g2p_adapted,F2BJRLP3,21,administrative,6.84,7.49,AH0 D M IH1 N AH0 S T R EY2 T IH0 V
+arpa_g2p_adapted,F2BJRLP3,22,abilities,7.49,8.12,AH0 B IH1 L AH0 T IY0 Z
+arpa_g2p_adapted,F2BJRLP3,23,admirers,8.53,9.26,AH0 D M AY1 R ER0 Z
+arpa_g2p_adapted,F2BJRLP3,24,give,9.26,9.51,G IH1 V
+arpa_g2p_adapted,F2BJRLP3,25,hennessy,9.51,10.0,HH EH1 N AH0 S IY0
+arpa_g2p_adapted,F2BJRLP3,26,much,10.0,10.23,M AH1 CH
+arpa_g2p_adapted,F2BJRLP3,27,of,10.23,10.31,AH0 V
+arpa_g2p_adapted,F2BJRLP3,28,the,10.31,10.39,DH AH0
+arpa_g2p_adapted,F2BJRLP3,29,credit,10.39,10.74,K R EH1 D IH0 T
+arpa_g2p_adapted,F2BJRLP3,30,for,10.99,11.16,F R ER0
+arpa_g2p_adapted,F2BJRLP3,31,sweeping,11.16,11.59,S W IY1 P IH0 NG
+arpa_g2p_adapted,F2BJRLP3,32,court,11.59,11.86,K AO1 R T
+arpa_g2p_adapted,F2BJRLP3,33,reform,11.86,12.42,R IH0 F AO1 R M
+arpa_g2p_adapted,F2BJRLP3,34,that,12.42,12.56,DH AE1 T
+arpa_g2p_adapted,F2BJRLP3,35,began,12.56,12.88,B IH0 G AE1 N
+arpa_g2p_adapted,F2BJRLP3,36,a,12.88,12.93,AH0
+arpa_g2p_adapted,F2BJRLP3,37,decade,12.93,13.31,D EH1 K EY0 D
+arpa_g2p_adapted,F2BJRLP3,38,ago,13.31,13.76,AH0 G OW1
+arpa_g2p_adapted,F2BJRLP3,39,and,13.87,14.06,AE1 N D
+arpa_g2p_adapted,F2BJRLP3,40,for,14.06,14.17,F ER0
+arpa_g2p_adapted,F2BJRLP3,41,last,14.17,14.54,L AE1 S T
+arpa_g2p_adapted,F2BJRLP3,42,year's,14.54,14.82,Y IH1 R Z
+arpa_g2p_adapted,F2BJRLP3,43,legislative,14.82,15.39,L EH1 JH AH0 S L EY2 T IH0 V
+arpa_g2p_adapted,F2BJRLP3,44,approval,15.39,15.96,AH0 P R UW1 V AH0 L
+arpa_g2p_adapted,F2BJRLP3,45,of,16.06,16.19,AH1 V
+arpa_g2p_adapted,F2BJRLP3,46,thirty,16.19,16.54,TH ER1 D IY0
+arpa_g2p_adapted,F2BJRLP3,47,five,16.54,16.93,F AY1 V
+arpa_g2p_adapted,F2BJRLP3,48,new,16.93,17.09,N Y UW1
+arpa_g2p_adapted,F2BJRLP3,49,judgeships,17.09,17.73,JH AH1 JH SH IH2 P S
+arpa_g2p_adapted,F2BJRLP3,50,and,18.05,18.21,AE1 N D
+arpa_g2p_adapted,F2BJRLP3,51,three,18.21,18.42,TH R IY1
+arpa_g2p_adapted,F2BJRLP3,52,hundred,18.42,18.8,HH AH1 N D R AH0 D
+arpa_g2p_adapted,F2BJRLP3,53,million,18.8,19.12,M IH1 L Y AH0 N
+arpa_g2p_adapted,F2BJRLP3,54,dollars,19.12,19.59,D AA1 L ER0 Z
+arpa_g2p_adapted,F2BJRLP3,55,to,19.59,19.73,T AH0
+arpa_g2p_adapted,F2BJRLP3,56,restore,19.73,20.28,R IH0 S T AO1 R
+arpa_g2p_adapted,F2BJRLP3,57,crumbling,20.28,20.8,K R AH1 M B L IH0 NG
+arpa_g2p_adapted,F2BJRLP3,58,court,20.8,21.07,K AO1 R T
+arpa_g2p_adapted,F2BJRLP3,59,houses,21.07,21.63,HH AW1 S AH0 Z
+arpa_g2p_adapted,F2BJRLP3,60,despite,22.17,22.58,D IH0 S P AY1 T
+arpa_g2p_adapted,F2BJRLP3,61,the,22.58,22.67,DH AH0
+arpa_g2p_adapted,F2BJRLP3,62,state's,22.67,23.03,S T EY1 T S
+arpa_g2p_adapted,F2BJRLP3,63,massive,23.03,23.52,M AE1 S IH0 V
+arpa_g2p_adapted,F2BJRLP3,64,budget,23.52,23.88,B AH1 JH IH0 T
+arpa_g2p_adapted,F2BJRLP3,65,deficit,23.88,24.42,D EH1 F AH0 S AH0 T
+arpa_g2p_adapted,F2BJRLP3,66,hennessy,24.79,25.17,HH EH1 N AH0 S IY0
+arpa_g2p_adapted,F2BJRLP3,67,recently,25.17,25.61,R IY1 S AH0 N T L IY0
+arpa_g2p_adapted,F2BJRLP3,68,urged,25.61,25.91,ER1 JH D
+arpa_g2p_adapted,F2BJRLP3,69,colleagues,25.91,26.34,K AA1 L IY0 G Z
+arpa_g2p_adapted,F2BJRLP3,70,in,26.34,26.42,IH0 N
+arpa_g2p_adapted,F2BJRLP3,71,the,26.42,26.49,DH AH0
+arpa_g2p_adapted,F2BJRLP3,72,bar,26.49,26.74,B AA1 R
+arpa_g2p_adapted,F2BJRLP3,73,association,26.74,27.56,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_g2p_adapted,F2BJRLP3,74,not,27.65,27.95,N AA1 T
+arpa_g2p_adapted,F2BJRLP3,75,to,27.95,28.08,T AH0
+arpa_g2p_adapted,F2BJRLP3,76,retreat,28.08,28.59,R IY0 T R IY1 T
+arpa_g2p_adapted,F2BJRLP3,77,from,28.67,28.9,F ER0 M
+arpa_g2p_adapted,F2BJRLP3,78,these,28.9,29.14,DH IY1 Z
+arpa_g2p_adapted,F2BJRLP3,79,hard,29.14,29.48,HH AA1 R D
+arpa_g2p_adapted,F2BJRLP3,80,won,29.48,29.72,W AH1 N
+arpa_g2p_adapted,F2BJRLP3,81,gains,29.72,30.36,G EY1 N Z
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_01_sprt1,0,i,0.44,0.53,AY1
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_01_sprt1,1,said,0.53,0.92,S EH1 D
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_01_sprt1,2,white,0.92,1.33,W AY1 T
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_01_sprt1,3,not,1.48,1.8,N AA1 T
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_01_sprt1,4,bait,1.8,2.25,B EY1 T
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_02_sprt1,0,i,0.62,0.69,AY1
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_02_sprt1,1,said,0.69,1.01,S EH1 D
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_02_sprt1,2,new,1.01,1.42,N Y UW1
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_02_sprt1,3,not,1.45,1.75,N AA1 T
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_02_sprt1,4,no,1.75,2.22,N OW1
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_03_sprt1,0,i,0.22,0.29,AY1
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_03_sprt1,1,said,0.29,0.66,S EH1 D
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_03_sprt1,2,bad,0.66,1.17,B AE1 D
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_03_sprt1,3,not,1.17,1.46,N AA1 T
+arpa_g2p_adapted,ISLE_SESS0131_BLOCKD02_03_sprt1,4,bed,1.49,2.04,B EH1 D
+arpa_g2p_finetune,F2BJRLP1,0,wanted,0.54,1.12,W AA1 N T IH0 D
+arpa_g2p_finetune,F2BJRLP1,1,chief,1.28,1.58,CH IY1 F
+arpa_g2p_finetune,F2BJRLP1,2,justice,1.58,2.09,JH AH1 S T AH0 S
+arpa_g2p_finetune,F2BJRLP1,3,of,2.09,2.23,AH0 V
+arpa_g2p_finetune,F2BJRLP1,4,the,2.23,2.31,DH AH0
+arpa_g2p_finetune,F2BJRLP1,5,massachusetts,2.31,3.05,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_g2p_finetune,F2BJRLP1,6,supreme,3.05,3.48,S AH0 P R IY1 M
+arpa_g2p_finetune,F2BJRLP1,7,court,3.48,3.95,K AO1 R T
+arpa_g2p_finetune,F2BJRLP1,8,in,4.16,4.29,IH0 N
+arpa_g2p_finetune,F2BJRLP1,9,april,4.29,4.63,EY1 P R AH0 L
+arpa_g2p_finetune,F2BJRLP1,10,the,4.63,4.8,DH IY0
+arpa_g2p_finetune,F2BJRLP1,11,s,4.8,4.94,EH1 S
+arpa_g2p_finetune,F2BJRLP1,12,j,4.94,5.12,JH EY1
+arpa_g2p_finetune,F2BJRLP1,13,c's,5.12,5.43,S IY1 Z
+arpa_g2p_finetune,F2BJRLP1,14,current,5.43,5.8,K ER1 AH0 N T
+arpa_g2p_finetune,F2BJRLP1,15,leader,5.8,6.13,L IY1 D ER0
+arpa_g2p_finetune,F2BJRLP1,16,edward,6.16,6.48,EH1 D W ER0 D
+arpa_g2p_finetune,F2BJRLP1,17,hennessy,6.48,6.97,HH EH1 N AH0 S IY0
+arpa_g2p_finetune,F2BJRLP1,18,reaches,7.36,7.69,R IY1 CH IH0 Z
+arpa_g2p_finetune,F2BJRLP1,19,the,7.69,7.79,DH AH0
+arpa_g2p_finetune,F2BJRLP1,20,mandatory,7.79,8.41,M AE1 N D AH0 T AO2 R IY0
+arpa_g2p_finetune,F2BJRLP1,21,retirement,8.41,9.04,R IY0 T AY1 ER0 M AH0 N T
+arpa_g2p_finetune,F2BJRLP1,22,age,9.04,9.26,EY1 JH
+arpa_g2p_finetune,F2BJRLP1,23,of,9.26,9.38,AH0 V
+arpa_g2p_finetune,F2BJRLP1,24,seventy,9.38,9.99,S EH1 V AH0 N T IY0
+arpa_g2p_finetune,F2BJRLP1,25,and,10.08,10.21,AE1 N D
+arpa_g2p_finetune,F2BJRLP1,26,a,10.21,10.25,AH0
+arpa_g2p_finetune,F2BJRLP1,27,successor,10.25,10.85,S AH0 K S EH1 S ER0
+arpa_g2p_finetune,F2BJRLP1,28,is,10.85,10.98,IH0 Z
+arpa_g2p_finetune,F2BJRLP1,29,expected,10.98,11.47,IH0 K S P EH1 K T IH0 D
+arpa_g2p_finetune,F2BJRLP1,30,to,11.47,11.55,T IH0
+arpa_g2p_finetune,F2BJRLP1,31,be,11.55,11.65,B IY0
+arpa_g2p_finetune,F2BJRLP1,32,named,11.65,12.01,N EY1 M D
+arpa_g2p_finetune,F2BJRLP1,33,in,12.01,12.15,IH0 N
+arpa_g2p_finetune,F2BJRLP1,34,march,12.15,12.62,M AA1 R CH
+arpa_g2p_finetune,F2BJRLP1,35,it,13.01,13.11,IH1 T
+arpa_g2p_finetune,F2BJRLP1,36,may,13.11,13.25,M EY1
+arpa_g2p_finetune,F2BJRLP1,37,be,13.25,13.37,B IY0
+arpa_g2p_finetune,F2BJRLP1,38,the,13.37,13.46,DH AH0
+arpa_g2p_finetune,F2BJRLP1,39,most,13.46,13.72,M OW1 S T
+arpa_g2p_finetune,F2BJRLP1,40,important,13.72,14.16,IH0 M P AO1 R T AH0 N T
+arpa_g2p_finetune,F2BJRLP1,41,appointment,14.16,14.76,AH0 P OY1 N T M AH0 N T
+arpa_g2p_finetune,F2BJRLP1,42,governor,14.79,15.13,G AH1 V ER0 N ER0
+arpa_g2p_finetune,F2BJRLP1,43,michael,15.13,15.44,M AY1 K AH0 L
+arpa_g2p_finetune,F2BJRLP1,44,dukakis,15.44,16.01,D UW0 K AA1 K IH0 S
+arpa_g2p_finetune,F2BJRLP1,45,makes,16.01,16.4,M EY1 K S
+arpa_g2p_finetune,F2BJRLP1,46,during,16.71,16.95,D UH1 R IH0 NG
+arpa_g2p_finetune,F2BJRLP1,47,the,16.95,17.02,DH AH0
+arpa_g2p_finetune,F2BJRLP1,48,remainder,17.02,17.51,R IY0 M EY1 N D ER0
+arpa_g2p_finetune,F2BJRLP1,49,of,17.51,17.6,AH0 V
+arpa_g2p_finetune,F2BJRLP1,50,his,17.6,17.77,HH IH0 Z
+arpa_g2p_finetune,F2BJRLP1,51,administration,17.77,18.68,AE0 D M IH2 N IH0 S T R EY1 SH AH0 N
+arpa_g2p_finetune,F2BJRLP1,52,and,18.78,19.0,AE1 N D
+arpa_g2p_finetune,F2BJRLP1,53,one,19.0,19.17,W AH1 N
+arpa_g2p_finetune,F2BJRLP1,54,of,19.17,19.28,AH0 V
+arpa_g2p_finetune,F2BJRLP1,55,the,19.28,19.36,DH AH0
+arpa_g2p_finetune,F2BJRLP1,56,toughest,19.36,19.98,T AH1 F AH0 S T
+arpa_g2p_finetune,F2BJRLP1,57,as,20.36,20.56,EH1 Z
+arpa_g2p_finetune,F2BJRLP1,58,w,20.56,20.9,D AH1 B AH0 L Y UW0
+arpa_g2p_finetune,F2BJRLP1,59,b,20.9,21.01,B IY1
+arpa_g2p_finetune,F2BJRLP1,60,u,21.01,21.19,Y UW1
+arpa_g2p_finetune,F2BJRLP1,61,r's,21.19,21.44,AA1 R Z
+arpa_g2p_finetune,F2BJRLP1,62,margo,21.44,21.74,M AA1 R G OW0
+arpa_g2p_finetune,F2BJRLP1,63,melnicove,21.74,22.3,M EH1 L N IH0 K OW2 V
+arpa_g2p_finetune,F2BJRLP1,64,reports,22.3,22.87,R IH0 P AO1 R T S
+arpa_g2p_finetune,F2BJRLP1,65,hennessy,22.93,23.36,HH EH1 N AH0 S IY0
+arpa_g2p_finetune,F2BJRLP1,66,will,23.36,23.5,W AH0 L
+arpa_g2p_finetune,F2BJRLP1,67,be,23.5,23.67,B IY0
+arpa_g2p_finetune,F2BJRLP1,68,a,23.67,23.77,AH0
+arpa_g2p_finetune,F2BJRLP1,69,hard,23.77,24.09,HH AA1 R D
+arpa_g2p_finetune,F2BJRLP1,70,act,24.13,24.48,AE1 K T
+arpa_g2p_finetune,F2BJRLP1,71,to,24.48,24.58,T AH0
+arpa_g2p_finetune,F2BJRLP1,72,follow,24.58,25.01,F AA1 L OW0
+arpa_g2p_finetune,F2BJRLP2,0,in,0.04,0.17,IH0 N
+arpa_g2p_finetune,F2BJRLP2,1,nineteen,0.17,0.54,N AY1 N T IY1 N
+arpa_g2p_finetune,F2BJRLP2,2,seventy,0.54,0.9,S EH1 V AH0 N T IY0
+arpa_g2p_finetune,F2BJRLP2,3,six,0.9,1.38,S IH1 K S
+arpa_g2p_finetune,F2BJRLP2,4,democratic,1.5,2.05,D EH2 M AH0 K R AE1 T IH0 K
+arpa_g2p_finetune,F2BJRLP2,5,governor,2.05,2.41,G AH1 V ER0 N ER0
+arpa_g2p_finetune,F2BJRLP2,6,michael,2.41,2.72,M AY1 K AH0 L
+arpa_g2p_finetune,F2BJRLP2,7,dukakis,2.72,3.36,D UW1 K AA1 K IH0 S
+arpa_g2p_finetune,F2BJRLP2,8,fulfilled,3.63,4.06,F UH0 L F IH1 L D
+arpa_g2p_finetune,F2BJRLP2,9,a,4.06,4.12,AH0
+arpa_g2p_finetune,F2BJRLP2,10,campaign,4.12,4.68,K AE0 M P EY1 N
+arpa_g2p_finetune,F2BJRLP2,11,promise,4.68,5.2,P R AA1 M AH0 S
+arpa_g2p_finetune,F2BJRLP2,12,to,5.2,5.42,T UW1
+arpa_g2p_finetune,F2BJRLP2,13,de,5.42,5.65,D IY1
+arpa_g2p_finetune,F2BJRLP2,14,politicize,5.65,6.51,P AH0 L IH1 T IH0 S AY2 Z
+arpa_g2p_finetune,F2BJRLP2,15,judicial,6.51,7.04,JH UW0 D IH1 SH AH0 L
+arpa_g2p_finetune,F2BJRLP2,16,appointments,7.04,7.75,AH0 P OY1 N T M AH0 N T S
+arpa_g2p_finetune,F2BJRLP2,17,he,8.04,8.16,HH IY1
+arpa_g2p_finetune,F2BJRLP2,18,named,8.16,8.5,N EY1 M D
+arpa_g2p_finetune,F2BJRLP2,19,republican,8.5,9.19,R IY0 P AH1 B L IH0 K AH0 N
+arpa_g2p_finetune,F2BJRLP2,20,edward,9.19,9.55,EH1 D W ER0 D
+arpa_g2p_finetune,F2BJRLP2,21,hennessy,9.55,10.09,HH EH1 N AH0 S IY0
+arpa_g2p_finetune,F2BJRLP2,22,to,10.09,10.26,T UW1
+arpa_g2p_finetune,F2BJRLP2,23,head,10.26,10.52,HH EH1 D
+arpa_g2p_finetune,F2BJRLP2,24,the,10.52,10.61,DH AH0
+arpa_g2p_finetune,F2BJRLP2,25,state,10.61,10.97,S T EY1 T
+arpa_g2p_finetune,F2BJRLP2,26,supreme,10.97,11.4,S AH0 P R IY1 M
+arpa_g2p_finetune,F2BJRLP2,27,judicial,11.4,11.87,JH UW0 D IH1 SH AH0 L
+arpa_g2p_finetune,F2BJRLP2,28,court,11.87,12.33,K AO1 R T
+arpa_g2p_finetune,F2BJRLP2,29,for,13.03,13.2,F R ER0
+arpa_g2p_finetune,F2BJRLP2,30,hennessy,13.2,13.62,HH EH1 N AH0 S IY0
+arpa_g2p_finetune,F2BJRLP2,31,it,13.62,13.72,IH1 T
+arpa_g2p_finetune,F2BJRLP2,32,was,13.72,13.88,W AH0 Z
+arpa_g2p_finetune,F2BJRLP2,33,another,13.88,14.2,AH0 N AH1 DH ER0
+arpa_g2p_finetune,F2BJRLP2,34,step,14.2,14.68,S T EH1 P
+arpa_g2p_finetune,F2BJRLP2,35,along,14.68,15.0,AH0 L AO1 NG
+arpa_g2p_finetune,F2BJRLP2,36,a,15.0,15.05,AH0
+arpa_g2p_finetune,F2BJRLP2,37,distinguished,15.05,15.68,D IH0 S T IH1 NG G W IH0 SH T
+arpa_g2p_finetune,F2BJRLP2,38,career,15.68,16.1,K ER0 IH1 R
+arpa_g2p_finetune,F2BJRLP2,39,that,16.45,16.6,DH AE1 T
+arpa_g2p_finetune,F2BJRLP2,40,began,16.6,17.02,B IH0 G AE1 N
+arpa_g2p_finetune,F2BJRLP2,41,as,17.02,17.17,AE1 Z
+arpa_g2p_finetune,F2BJRLP2,42,a,17.17,17.23,AH0
+arpa_g2p_finetune,F2BJRLP2,43,trial,17.23,17.64,T R AY1 AH0 L
+arpa_g2p_finetune,F2BJRLP2,44,lawyer,17.64,18.09,L AO1 Y ER0
+arpa_g2p_finetune,F2BJRLP2,45,and,18.16,18.34,AE1 N D
+arpa_g2p_finetune,F2BJRLP2,46,led,18.34,18.52,L EH1 D
+arpa_g2p_finetune,F2BJRLP2,47,to,18.52,18.63,T UW1
+arpa_g2p_finetune,F2BJRLP2,48,an,18.63,18.73,AH0 N
+arpa_g2p_finetune,F2BJRLP2,49,appointment,18.73,19.3,AH0 P OY1 N T M AH0 N T
+arpa_g2p_finetune,F2BJRLP2,50,as,19.3,19.49,AE1 Z
+arpa_g2p_finetune,F2BJRLP2,51,associate,19.49,20.14,AH0 S OW1 S IY0 AH0 T
+arpa_g2p_finetune,F2BJRLP2,52,supreme,20.14,20.54,S AH0 P R IY1 M
+arpa_g2p_finetune,F2BJRLP2,53,court,20.54,20.82,K AO1 R T
+arpa_g2p_finetune,F2BJRLP2,54,justice,20.82,21.3,JH AH1 S T AH0 S
+arpa_g2p_finetune,F2BJRLP2,55,in,21.3,21.48,IH0 N
+arpa_g2p_finetune,F2BJRLP2,56,nineteen,21.48,21.89,N AY1 N T IY1 N
+arpa_g2p_finetune,F2BJRLP2,57,seventy,21.89,22.31,S EH1 V AH0 N T IY0
+arpa_g2p_finetune,F2BJRLP2,58,one,22.31,22.65,W AH1 N
+arpa_g2p_finetune,F2BJRLP2,59,that,23.16,23.35,DH AE1 T
+arpa_g2p_finetune,F2BJRLP2,60,year,23.35,23.52,Y IH1 R
+arpa_g2p_finetune,F2BJRLP2,61,thomas,23.52,23.94,T AA1 M AH0 S
+arpa_g2p_finetune,F2BJRLP2,62,maffy,23.94,24.33,M AE1 F IY0
+arpa_g2p_finetune,F2BJRLP2,63,now,24.33,24.51,N AW1
+arpa_g2p_finetune,F2BJRLP2,64,president,24.51,25.05,P R EH1 Z IH0 D AH0 N T
+arpa_g2p_finetune,F2BJRLP2,65,of,25.05,25.16,AH0 V
+arpa_g2p_finetune,F2BJRLP2,66,the,25.16,25.23,DH AH0
+arpa_g2p_finetune,F2BJRLP2,67,massachusetts,25.23,25.85,M AE2 S AH0 CH UW1 S AH0 T S
+arpa_g2p_finetune,F2BJRLP2,68,bar,25.85,26.08,B AA1 R
+arpa_g2p_finetune,F2BJRLP2,69,association,26.08,26.86,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_g2p_finetune,F2BJRLP2,70,was,27.2,27.35,W AH0 Z
+arpa_g2p_finetune,F2BJRLP2,71,hennessy's,27.35,27.81,HH EH1 N IH0 S IY0 Z
+arpa_g2p_finetune,F2BJRLP2,72,law,27.81,28.01,L AA1
+arpa_g2p_finetune,F2BJRLP2,73,clerk,28.01,28.47,K L ER1 K
+arpa_g2p_finetune,F2BJRLP3,0,the,0.22,0.36,DH IY0
+arpa_g2p_finetune,F2BJRLP3,1,author,0.36,0.71,AO1 TH ER0
+arpa_g2p_finetune,F2BJRLP3,2,of,0.71,0.87,AH0 V
+arpa_g2p_finetune,F2BJRLP3,3,more,0.87,1.05,M AO1 R
+arpa_g2p_finetune,F2BJRLP3,4,than,1.05,1.23,DH AE1 N
+arpa_g2p_finetune,F2BJRLP3,5,eight,1.23,1.4,EY1 T
+arpa_g2p_finetune,F2BJRLP3,6,hundred,1.4,1.8,HH AH1 N D R AH0 D
+arpa_g2p_finetune,F2BJRLP3,7,state,1.8,2.04,S T EY1 T
+arpa_g2p_finetune,F2BJRLP3,8,supreme,2.04,2.36,S AH0 P R IY1 M
+arpa_g2p_finetune,F2BJRLP3,9,court,2.36,2.59,K AO1 R T
+arpa_g2p_finetune,F2BJRLP3,10,opinions,2.59,3.16,AH0 P IH1 N Y AH0 N Z
+arpa_g2p_finetune,F2BJRLP3,11,hennessy,3.48,3.9,HH EH1 N AH0 S IY0
+arpa_g2p_finetune,F2BJRLP3,12,is,3.9,4.05,IH1 Z
+arpa_g2p_finetune,F2BJRLP3,13,widely,4.05,4.44,W AY1 D L IY0
+arpa_g2p_finetune,F2BJRLP3,14,respected,4.44,5.12,R IY0 S P EH1 K T IH0 D
+arpa_g2p_finetune,F2BJRLP3,15,for,5.12,5.27,F R ER0
+arpa_g2p_finetune,F2BJRLP3,16,his,5.27,5.48,HH IH0 Z
+arpa_g2p_finetune,F2BJRLP3,17,legal,5.48,5.74,L IY1 G AH0 L
+arpa_g2p_finetune,F2BJRLP3,18,scholarship,5.74,6.47,S K AA1 L ER0 SH IH2 P
+arpa_g2p_finetune,F2BJRLP3,19,and,6.5,6.66,AE1 N D
+arpa_g2p_finetune,F2BJRLP3,20,his,6.66,6.84,HH IH0 Z
+arpa_g2p_finetune,F2BJRLP3,21,administrative,6.84,7.49,AH0 D M IH1 N AH0 S T R EY2 T IH0 V
+arpa_g2p_finetune,F2BJRLP3,22,abilities,7.49,8.12,AH0 B IH1 L AH0 T IY0 Z
+arpa_g2p_finetune,F2BJRLP3,23,admirers,8.53,9.26,AH0 D M AY1 R ER0 Z
+arpa_g2p_finetune,F2BJRLP3,24,give,9.26,9.51,G IH1 V
+arpa_g2p_finetune,F2BJRLP3,25,hennessy,9.51,10.0,HH EH1 N AH0 S IY0
+arpa_g2p_finetune,F2BJRLP3,26,much,10.0,10.23,M AH1 CH
+arpa_g2p_finetune,F2BJRLP3,27,of,10.23,10.31,AH0 V
+arpa_g2p_finetune,F2BJRLP3,28,the,10.31,10.39,DH AH0
+arpa_g2p_finetune,F2BJRLP3,29,credit,10.39,10.74,K R EH1 D IH0 T
+arpa_g2p_finetune,F2BJRLP3,30,for,10.99,11.16,F R ER0
+arpa_g2p_finetune,F2BJRLP3,31,sweeping,11.16,11.59,S W IY1 P IH0 NG
+arpa_g2p_finetune,F2BJRLP3,32,court,11.59,11.86,K AO1 R T
+arpa_g2p_finetune,F2BJRLP3,33,reform,11.86,12.42,R IH0 F AO1 R M
+arpa_g2p_finetune,F2BJRLP3,34,that,12.42,12.56,DH AE1 T
+arpa_g2p_finetune,F2BJRLP3,35,began,12.56,12.88,B IH0 G AE1 N
+arpa_g2p_finetune,F2BJRLP3,36,a,12.88,12.93,AH0
+arpa_g2p_finetune,F2BJRLP3,37,decade,12.93,13.31,D EH1 K EY0 D
+arpa_g2p_finetune,F2BJRLP3,38,ago,13.31,13.76,AH0 G OW1
+arpa_g2p_finetune,F2BJRLP3,39,and,13.87,14.06,AE1 N D
+arpa_g2p_finetune,F2BJRLP3,40,for,14.06,14.17,F ER0
+arpa_g2p_finetune,F2BJRLP3,41,last,14.17,14.54,L AE1 S T
+arpa_g2p_finetune,F2BJRLP3,42,year's,14.54,14.82,Y IH1 R Z
+arpa_g2p_finetune,F2BJRLP3,43,legislative,14.82,15.39,L EH1 JH AH0 S L EY2 T IH0 V
+arpa_g2p_finetune,F2BJRLP3,44,approval,15.39,15.96,AH0 P R UW1 V AH0 L
+arpa_g2p_finetune,F2BJRLP3,45,of,16.06,16.19,AH1 V
+arpa_g2p_finetune,F2BJRLP3,46,thirty,16.19,16.54,TH ER1 D IY0
+arpa_g2p_finetune,F2BJRLP3,47,five,16.54,16.93,F AY1 V
+arpa_g2p_finetune,F2BJRLP3,48,new,16.93,17.09,N Y UW1
+arpa_g2p_finetune,F2BJRLP3,49,judgeships,17.09,17.73,JH AH1 JH SH IH2 P S
+arpa_g2p_finetune,F2BJRLP3,50,and,18.05,18.21,AE1 N D
+arpa_g2p_finetune,F2BJRLP3,51,three,18.21,18.42,TH R IY1
+arpa_g2p_finetune,F2BJRLP3,52,hundred,18.42,18.8,HH AH1 N D R AH0 D
+arpa_g2p_finetune,F2BJRLP3,53,million,18.8,19.12,M IH1 L Y AH0 N
+arpa_g2p_finetune,F2BJRLP3,54,dollars,19.12,19.59,D AA1 L ER0 Z
+arpa_g2p_finetune,F2BJRLP3,55,to,19.59,19.73,T AH0
+arpa_g2p_finetune,F2BJRLP3,56,restore,19.73,20.28,R IH0 S T AO1 R
+arpa_g2p_finetune,F2BJRLP3,57,crumbling,20.28,20.8,K R AH1 M B L IH0 NG
+arpa_g2p_finetune,F2BJRLP3,58,court,20.8,21.07,K AO1 R T
+arpa_g2p_finetune,F2BJRLP3,59,houses,21.07,21.63,HH AW1 S AH0 Z
+arpa_g2p_finetune,F2BJRLP3,60,despite,22.17,22.58,D IH0 S P AY1 T
+arpa_g2p_finetune,F2BJRLP3,61,the,22.58,22.67,DH AH0
+arpa_g2p_finetune,F2BJRLP3,62,state's,22.67,23.03,S T EY1 T S
+arpa_g2p_finetune,F2BJRLP3,63,massive,23.03,23.52,M AE1 S IH0 V
+arpa_g2p_finetune,F2BJRLP3,64,budget,23.52,23.88,B AH1 JH IH0 T
+arpa_g2p_finetune,F2BJRLP3,65,deficit,23.88,24.42,D EH1 F AH0 S AH0 T
+arpa_g2p_finetune,F2BJRLP3,66,hennessy,24.79,25.17,HH EH1 N AH0 S IY0
+arpa_g2p_finetune,F2BJRLP3,67,recently,25.17,25.61,R IY1 S AH0 N T L IY0
+arpa_g2p_finetune,F2BJRLP3,68,urged,25.61,25.91,ER1 JH D
+arpa_g2p_finetune,F2BJRLP3,69,colleagues,25.91,26.34,K AA1 L IY0 G Z
+arpa_g2p_finetune,F2BJRLP3,70,in,26.34,26.42,IH0 N
+arpa_g2p_finetune,F2BJRLP3,71,the,26.42,26.49,DH AH0
+arpa_g2p_finetune,F2BJRLP3,72,bar,26.49,26.74,B AA1 R
+arpa_g2p_finetune,F2BJRLP3,73,association,26.74,27.56,AH0 S OW2 S IY0 EY1 SH AH0 N
+arpa_g2p_finetune,F2BJRLP3,74,not,27.65,27.95,N AA1 T
+arpa_g2p_finetune,F2BJRLP3,75,to,27.95,28.08,T AH0
+arpa_g2p_finetune,F2BJRLP3,76,retreat,28.08,28.59,R IY0 T R IY1 T
+arpa_g2p_finetune,F2BJRLP3,77,from,28.67,28.9,F ER0 M
+arpa_g2p_finetune,F2BJRLP3,78,these,28.9,29.14,DH IY1 Z
+arpa_g2p_finetune,F2BJRLP3,79,hard,29.14,29.48,HH AA1 R D
+arpa_g2p_finetune,F2BJRLP3,80,won,29.48,29.72,W AH1 N
+arpa_g2p_finetune,F2BJRLP3,81,gains,29.72,30.36,G EY1 N Z
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_01_sprt1,0,i,0.44,0.53,AY1
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_01_sprt1,1,said,0.53,0.92,S EH1 D
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_01_sprt1,2,white,0.92,1.33,W AY1 T
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_01_sprt1,3,not,1.48,1.8,N AA1 T
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_01_sprt1,4,bait,1.8,2.25,B EY1 T
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_02_sprt1,0,i,0.62,0.69,AY1
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_02_sprt1,1,said,0.69,1.01,S EH1 D
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_02_sprt1,2,new,1.01,1.42,N Y UW1
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_02_sprt1,3,not,1.45,1.75,N AA1 T
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_02_sprt1,4,no,1.75,2.22,N OW1
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_03_sprt1,0,i,0.22,0.29,AY1
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_03_sprt1,1,said,0.29,0.66,S EH1 D
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_03_sprt1,2,bad,0.66,1.17,B AE1 D
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_03_sprt1,3,not,1.17,1.46,N AA1 T
+arpa_g2p_finetune,ISLE_SESS0131_BLOCKD02_03_sprt1,4,bed,1.49,2.04,B EH1 D
+isle_variants,ISLE_SESS0131_BLOCKD02_01_sprt1,0,i,0.44,0.53,AY1
+isle_variants,ISLE_SESS0131_BLOCKD02_01_sprt1,1,said,0.53,0.92,S EH1 D
+isle_variants,ISLE_SESS0131_BLOCKD02_01_sprt1,2,white,0.92,1.49,W AY1 T
+isle_variants,ISLE_SESS0131_BLOCKD02_01_sprt1,3,not,1.49,1.8,N AA1 T
+isle_variants,ISLE_SESS0131_BLOCKD02_01_sprt1,4,bait,1.8,2.25,B EY1 T
+isle_variants,ISLE_SESS0131_BLOCKD02_02_sprt1,0,i,0.62,0.69,AY1
+isle_variants,ISLE_SESS0131_BLOCKD02_02_sprt1,1,said,0.69,1.01,S EH1 D
+isle_variants,ISLE_SESS0131_BLOCKD02_02_sprt1,2,new,1.01,1.42,N Y UW1
+isle_variants,ISLE_SESS0131_BLOCKD02_02_sprt1,3,not,1.45,1.75,N AA1 T
+isle_variants,ISLE_SESS0131_BLOCKD02_02_sprt1,4,no,1.75,2.24,N OW1
+isle_variants,ISLE_SESS0131_BLOCKD02_03_sprt1,0,i,0.22,0.29,AY1
+isle_variants,ISLE_SESS0131_BLOCKD02_03_sprt1,1,said,0.29,0.66,S EH1 D
+isle_variants,ISLE_SESS0131_BLOCKD02_03_sprt1,2,bad,0.66,1.17,B EH1 T
+isle_variants,ISLE_SESS0131_BLOCKD02_03_sprt1,3,not,1.17,1.46,N AA1 T
+isle_variants,ISLE_SESS0131_BLOCKD02_03_sprt1,4,bed,1.49,2.04,B EH1 D
+mfa_g2p,F2BJRLP1,0,wanted,0.53,1.14,w ɑ n tʲ ɪ d
+mfa_g2p,F2BJRLP1,1,chief,1.27,1.57,tʃ iː f
+mfa_g2p,F2BJRLP1,2,justice,1.57,2.09,dʒ ɐ s tʲ ɪ s
+mfa_g2p,F2BJRLP1,3,of,2.09,2.22,ə v
+mfa_g2p,F2BJRLP1,4,the,2.22,2.31,d̪ ə
+mfa_g2p,F2BJRLP1,5,massachusetts,2.31,3.04,m æ s ə tʃ ʉː s ɪ t s
+mfa_g2p,F2BJRLP1,6,supreme,3.04,3.48,s ʉ p ɹ iː m
+mfa_g2p,F2BJRLP1,7,court,3.48,3.95,kʰ ɒ ɹ t
+mfa_g2p,F2BJRLP1,8,in,4.15,4.28,ɪ n
+mfa_g2p,F2BJRLP1,9,april,4.28,4.63,ej p ɹ ə ɫ
+mfa_g2p,F2BJRLP1,10,the,4.63,4.78,d̪ iː
+mfa_g2p,F2BJRLP1,11,s,4.78,4.95,ɛ s
+mfa_g2p,F2BJRLP1,12,j,4.95,5.12,dʒ ej
+mfa_g2p,F2BJRLP1,13,c's,5.12,5.44,s iː z
+mfa_g2p,F2BJRLP1,14,current,5.44,5.81,kʰ ɝ ɹ ɛ n
+mfa_g2p,F2BJRLP1,15,leader,5.81,6.14,ʎ iː ɾ ɚ
+mfa_g2p,F2BJRLP1,16,edward,6.14,6.48,ɛ d w ɚ d
+mfa_g2p,F2BJRLP1,17,hennessy,6.48,6.97,h ɛ ɲ ɪ s i
+mfa_g2p,F2BJRLP1,18,reaches,7.35,7.7,ɹ iː tʃ ɪ z
+mfa_g2p,F2BJRLP1,19,the,7.7,7.79,d̪ ə
+mfa_g2p,F2BJRLP1,20,mandatory,7.79,8.41,m æ n d ə tʰ ɒ ɹ i
+mfa_g2p,F2BJRLP1,21,retirement,8.41,9.04,ɹ ɪ tʰ aj ɹ m ɛ n t
+mfa_g2p,F2BJRLP1,22,age,9.04,9.27,ej dʒ
+mfa_g2p,F2BJRLP1,23,of,9.27,9.37,ə v
+mfa_g2p,F2BJRLP1,24,seventy,9.37,9.99,s ɛ v ə n tʲ i
+mfa_g2p,F2BJRLP1,25,and,10.06,10.19,æ n
+mfa_g2p,F2BJRLP1,26,a,10.19,10.25,ə
+mfa_g2p,F2BJRLP1,27,successor,10.25,10.85,s ə k s ɛ s ɚ
+mfa_g2p,F2BJRLP1,28,is,10.85,10.99,ɪ z
+mfa_g2p,F2BJRLP1,29,expected,10.99,11.45,ɪ k s p ɛ k tʲ ɪ d
+mfa_g2p,F2BJRLP1,30,to,11.45,11.55,t ə
+mfa_g2p,F2BJRLP1,31,be,11.55,11.65,bʲ i
+mfa_g2p,F2BJRLP1,32,named,11.65,12.01,ɲ ej m d
+mfa_g2p,F2BJRLP1,33,in,12.01,12.15,ɪ n
+mfa_g2p,F2BJRLP1,34,march,12.15,12.62,m ɑ ɹ tʃ
+mfa_g2p,F2BJRLP1,35,it,13.0,13.11,ɪ t
+mfa_g2p,F2BJRLP1,36,may,13.11,13.26,m ej
+mfa_g2p,F2BJRLP1,37,be,13.26,13.38,bʲ i
+mfa_g2p,F2BJRLP1,38,the,13.38,13.46,d̪ ə
+mfa_g2p,F2BJRLP1,39,most,13.46,13.72,m ow s t
+mfa_g2p,F2BJRLP1,40,important,13.72,14.16,ɪ m pʰ ɒ ɹ t ə n t
+mfa_g2p,F2BJRLP1,41,appointment,14.16,14.79,ə pʰ ɔj n m ə n t
+mfa_g2p,F2BJRLP1,42,governor,14.79,15.13,ɡ ɐ v ɚ n ɚ
+mfa_g2p,F2BJRLP1,43,michael,15.13,15.44,m aj k ə ɫ
+mfa_g2p,F2BJRLP1,44,dukakis,15.44,16.0,d ɐ kʰ ɑː c i z
+mfa_g2p,F2BJRLP1,45,makes,16.0,16.41,m ej k s
+mfa_g2p,F2BJRLP1,46,during,16.71,16.96,d ʊ ɹ ɪ ŋ
+mfa_g2p,F2BJRLP1,47,the,16.96,17.02,d̪ ə
+mfa_g2p,F2BJRLP1,48,remainder,17.02,17.52,ɹ ə m ej n d ɚ
+mfa_g2p,F2BJRLP1,49,of,17.52,17.59,ə v
+mfa_g2p,F2BJRLP1,50,his,17.59,17.77,ç ɪ z
+mfa_g2p,F2BJRLP1,51,administration,17.77,18.67,ə d mʲ ɪ n ə s t ɹ ej ʃ ə n
+mfa_g2p,F2BJRLP1,52,and,18.76,19.0,æ n d
+mfa_g2p,F2BJRLP1,53,one,19.0,19.17,w ɐ n
+mfa_g2p,F2BJRLP1,54,of,19.17,19.27,ə v
+mfa_g2p,F2BJRLP1,55,the,19.27,19.36,d̪ ə
+mfa_g2p,F2BJRLP1,56,toughest,19.36,20.0,tʰ ɐ fʲ ɪ s t
+mfa_g2p,F2BJRLP1,57,as,20.35,20.57,ej z
+mfa_g2p,F2BJRLP1,58,w,20.57,20.91,d ɐ bʲ ʉː
+mfa_g2p,F2BJRLP1,59,b,20.91,21.01,bʲ iː
+mfa_g2p,F2BJRLP1,60,u,21.01,21.19,j ʉː
+mfa_g2p,F2BJRLP1,61,r's,21.19,21.44,ɑ ɹ z
+mfa_g2p,F2BJRLP1,62,margo,21.44,21.74,m ɑ ɹ ɡ ow
+mfa_g2p,F2BJRLP1,63,melnicove,21.74,22.29,m ɛ ɫ n ə kʰ ow v
+mfa_g2p,F2BJRLP1,64,reports,22.29,22.88,ɹ ɪ pʰ ɒ ɹ t s
+mfa_g2p,F2BJRLP1,65,hennessy,22.91,23.36,h ɛ ɲ ɪ s i
+mfa_g2p,F2BJRLP1,66,will,23.36,23.5,w ɪ ɫ
+mfa_g2p,F2BJRLP1,67,be,23.5,23.69,bʲ i
+mfa_g2p,F2BJRLP1,68,a,23.69,23.77,ə
+mfa_g2p,F2BJRLP1,69,hard,23.77,24.08,h ɑ ɹ d
+mfa_g2p,F2BJRLP1,70,act,24.08,24.5,æ k t
+mfa_g2p,F2BJRLP1,71,to,24.5,24.58,t ə
+mfa_g2p,F2BJRLP1,72,follow,24.58,25.02,f ɑ l ow
+mfa_g2p,F2BJRLP2,0,in,0.03,0.17,ɪ n
+mfa_g2p,F2BJRLP2,1,nineteen,0.17,0.54,n aj n tʲ iː n
+mfa_g2p,F2BJRLP2,2,seventy,0.54,0.91,s ɛ v ə n tʲ i
+mfa_g2p,F2BJRLP2,3,six,0.91,1.38,s ɪ k s
+mfa_g2p,F2BJRLP2,4,democratic,1.38,2.05,d ɛ m ə c ɹ æ tʲ ɪ k
+mfa_g2p,F2BJRLP2,5,governor,2.05,2.41,ɡ ɐ v ə n ɚ
+mfa_g2p,F2BJRLP2,6,michael,2.41,2.72,m aj k ə ɫ
+mfa_g2p,F2BJRLP2,7,dukakis,2.72,3.36,d ɐ k ə c ɪ s
+mfa_g2p,F2BJRLP2,8,fulfilled,3.63,4.06,f ə fʲ ɪ ɫ d
+mfa_g2p,F2BJRLP2,9,a,4.06,4.12,ə
+mfa_g2p,F2BJRLP2,10,campaign,4.12,4.67,cʰ æ m pʰ ej n
+mfa_g2p,F2BJRLP2,11,promise,4.67,5.21,p ɹ ɑ mʲ ɪ s
+mfa_g2p,F2BJRLP2,12,to,5.21,5.42,tʰ ʉː
+mfa_g2p,F2BJRLP2,13,de,5.42,5.65,dʲ iː iː
+mfa_g2p,F2BJRLP2,14,politicize,5.65,6.52,pʰ ə ʎ ɪ tʲ ɪ s aj z
+mfa_g2p,F2BJRLP2,15,judicial,6.52,7.04,dʒ ʉ dʲ ɪ ʃ ə ɫ
+mfa_g2p,F2BJRLP2,16,appointments,7.04,7.76,ə pʰ ɔj n m ɛ n t s
+mfa_g2p,F2BJRLP2,17,he,7.79,8.16,ç iː
+mfa_g2p,F2BJRLP2,18,named,8.16,8.5,ɲ ej m d
+mfa_g2p,F2BJRLP2,19,republican,8.5,9.18,ɹ ɪ pʰ ɐ bʲ ʎ ɪ k ə n
+mfa_g2p,F2BJRLP2,20,edward,9.18,9.55,ɛ d w ɚ d
+mfa_g2p,F2BJRLP2,21,hennessy,9.55,10.09,h ɛ ɲ ɪ s i
+mfa_g2p,F2BJRLP2,22,to,10.09,10.27,tʰ ʉː
+mfa_g2p,F2BJRLP2,23,head,10.27,10.51,h ɛ d
+mfa_g2p,F2BJRLP2,24,the,10.51,10.6,d̪ ə
+mfa_g2p,F2BJRLP2,25,state,10.6,10.96,s t ej t
+mfa_g2p,F2BJRLP2,26,supreme,10.96,11.42,s ʉ p ɹ iː m
+mfa_g2p,F2BJRLP2,27,judicial,11.42,11.86,dʒ ʉ dʲ ɪ ʃ ə ɫ
+mfa_g2p,F2BJRLP2,28,court,11.86,12.33,kʰ ɒ ɹ t
+mfa_g2p,F2BJRLP2,29,for,13.03,13.19,f ɚ
+mfa_g2p,F2BJRLP2,30,hennessy,13.19,13.61,h ɛ ɲ ɪ s i
+mfa_g2p,F2BJRLP2,31,it,13.61,13.67,ɪ
+mfa_g2p,F2BJRLP2,32,was,13.67,13.88,w ɐ z
+mfa_g2p,F2BJRLP2,33,another,13.88,14.2,ə n ɐ ð ɚ
+mfa_g2p,F2BJRLP2,34,step,14.2,14.68,s t ɛ p
+mfa_g2p,F2BJRLP2,35,along,14.68,14.99,ə l ɒ ŋ
+mfa_g2p,F2BJRLP2,36,a,14.99,15.06,ə
+mfa_g2p,F2BJRLP2,37,distinguished,15.06,15.7,dʲ ɪ s tʲ ɪ ɲ ɟʷ ɪ ʃ t
+mfa_g2p,F2BJRLP2,38,career,15.7,16.1,kʰ ə ɹ ɪ ɹ
+mfa_g2p,F2BJRLP2,39,that,16.43,16.6,ð æ t
+mfa_g2p,F2BJRLP2,40,began,16.6,17.02,bʲ ɪ ɡ æ n
+mfa_g2p,F2BJRLP2,41,as,17.02,17.17,ej z
+mfa_g2p,F2BJRLP2,42,a,17.17,17.22,ə
+mfa_g2p,F2BJRLP2,43,trial,17.22,17.63,tʃ ɹ aj ɫ̩
+mfa_g2p,F2BJRLP2,44,lawyer,17.63,18.1,l ɔj ɹ
+mfa_g2p,F2BJRLP2,45,and,18.15,18.34,æ n
+mfa_g2p,F2BJRLP2,46,led,18.34,18.5,l ɛ d
+mfa_g2p,F2BJRLP2,47,to,18.5,18.62,tʰ ʉː
+mfa_g2p,F2BJRLP2,48,an,18.62,18.73,ə n
+mfa_g2p,F2BJRLP2,49,appointment,18.73,19.3,ə pʰ ɔj n m ɛ n t
+mfa_g2p,F2BJRLP2,50,as,19.3,19.48,æ s
+mfa_g2p,F2BJRLP2,51,associate,19.48,20.13,ə s ow s i ə t
+mfa_g2p,F2BJRLP2,52,supreme,20.13,20.54,s ʉ p ɹ iː m
+mfa_g2p,F2BJRLP2,53,court,20.54,20.8,kʰ ɒ ɹ t
+mfa_g2p,F2BJRLP2,54,justice,20.8,21.31,dʒ ɐ s tʲ ɪ s
+mfa_g2p,F2BJRLP2,55,in,21.31,21.49,ɪ n
+mfa_g2p,F2BJRLP2,56,nineteen,21.49,21.89,n aj n tʲ iː n
+mfa_g2p,F2BJRLP2,57,seventy,21.89,22.31,s ɛ v ə n tʲ i
+mfa_g2p,F2BJRLP2,58,one,22.31,22.65,w ɐ n
+mfa_g2p,F2BJRLP2,59,that,23.16,23.35,d̪ æ t
+mfa_g2p,F2BJRLP2,60,year,23.35,23.52,j ɪ ɹ
+mfa_g2p,F2BJRLP2,61,thomas,23.52,23.94,tʰ ɑ m ə s
+mfa_g2p,F2BJRLP2,62,maffy,23.94,24.33,m æ fʲ i
+mfa_g2p,F2BJRLP2,63,now,24.33,24.52,n aw
+mfa_g2p,F2BJRLP2,64,president,24.52,25.06,p ɹ ɛ z ɪ d ə n t
+mfa_g2p,F2BJRLP2,65,of,25.06,25.13,ə v
+mfa_g2p,F2BJRLP2,66,the,25.13,25.23,d̪ ə
+mfa_g2p,F2BJRLP2,67,massachusetts,25.23,25.86,m æ s ə tʃ ʉː s ɪ t s
+mfa_g2p,F2BJRLP2,68,bar,25.86,26.09,b ɑ ɹ
+mfa_g2p,F2BJRLP2,69,association,26.09,26.86,ə s ow s i ej ʃ ə n
+mfa_g2p,F2BJRLP2,70,was,27.2,27.35,w ɐ z
+mfa_g2p,F2BJRLP2,71,hennessy's,27.35,27.81,h ɛ ɲ ɪ s i z
+mfa_g2p,F2BJRLP2,72,law,27.81,28.01,l ɒ
+mfa_g2p,F2BJRLP2,73,clerk,28.01,28.5,k l ɝ k
+mfa_g2p,F2BJRLP3,0,the,0.21,0.36,d̪ iː
+mfa_g2p,F2BJRLP3,1,author,0.36,0.74,ɑː θ ɚ
+mfa_g2p,F2BJRLP3,2,of,0.74,0.86,ə v
+mfa_g2p,F2BJRLP3,3,more,0.86,1.06,m ɒː ɹ
+mfa_g2p,F2BJRLP3,4,than,1.06,1.23,d̪ ə n
+mfa_g2p,F2BJRLP3,5,eight,1.23,1.4,ej t
+mfa_g2p,F2BJRLP3,6,hundred,1.4,1.79,h ɐ n dʲ ɹ ɪ d
+mfa_g2p,F2BJRLP3,7,state,1.79,2.04,s t ej t
+mfa_g2p,F2BJRLP3,8,supreme,2.04,2.36,s ʉ p ɹ iː m
+mfa_g2p,F2BJRLP3,9,court,2.36,2.59,kʰ ɒ ɹ t
+mfa_g2p,F2BJRLP3,10,opinions,2.59,3.17,ə pʲ ɪ ɲ ə n z
+mfa_g2p,F2BJRLP3,11,hennessy,3.49,3.88,h ɛ ɲ ɪ s i
+mfa_g2p,F2BJRLP3,12,is,3.88,4.04,ɪ z
+mfa_g2p,F2BJRLP3,13,widely,4.04,4.44,w aj d ʎ i
+mfa_g2p,F2BJRLP3,14,respected,4.44,5.12,ɹ ɪ s p ɛ k tʲ ɪ d
+mfa_g2p,F2BJRLP3,15,for,5.12,5.27,f ɒ ɹ
+mfa_g2p,F2BJRLP3,16,his,5.27,5.48,ç ɪ z
+mfa_g2p,F2BJRLP3,17,legal,5.48,5.73,ʎ i ɡ ə ɫ
+mfa_g2p,F2BJRLP3,18,scholarship,5.73,6.4,s k ɑː l ɚ ʃ ɪ p
+mfa_g2p,F2BJRLP3,19,and,6.49,6.66,æ n d
+mfa_g2p,F2BJRLP3,20,his,6.66,6.85,ç ɪ z
+mfa_g2p,F2BJRLP3,21,administrative,6.85,7.5,ə d mʲ ɪ ɲ ɪ s t ɹ ej tʲ ɪ v
+mfa_g2p,F2BJRLP3,22,abilities,7.5,8.14,ə bʲ ɪ ʎ ɪ tʲ i z
+mfa_g2p,F2BJRLP3,23,admirers,8.53,9.28,æ d m aj ɹ ɚ z
+mfa_g2p,F2BJRLP3,24,give,9.28,9.5,ɟ ɪ v
+mfa_g2p,F2BJRLP3,25,hennessy,9.5,10.0,h ɛ ɲ ɪ s i
+mfa_g2p,F2BJRLP3,26,much,10.0,10.23,m ɐ tʃ
+mfa_g2p,F2BJRLP3,27,of,10.23,10.3,ə v
+mfa_g2p,F2BJRLP3,28,the,10.3,10.38,d̪ ə
+mfa_g2p,F2BJRLP3,29,credit,10.38,10.77,c ɹ ɛ dʲ ɪ t
+mfa_g2p,F2BJRLP3,30,for,11.0,11.17,f ɒ ɹ
+mfa_g2p,F2BJRLP3,31,sweeping,11.17,11.6,s w iː pʲ ɪ ŋ
+mfa_g2p,F2BJRLP3,32,court,11.6,11.86,kʰ ɒ ɹ t
+mfa_g2p,F2BJRLP3,33,reform,11.86,12.42,ɹ ɪ f ɒ ɹ m
+mfa_g2p,F2BJRLP3,34,that,12.42,12.55,ð æ t
+mfa_g2p,F2BJRLP3,35,began,12.55,12.87,bʲ ɪ ɡ æ n
+mfa_g2p,F2BJRLP3,36,a,12.87,12.93,ə
+mfa_g2p,F2BJRLP3,37,decade,12.93,13.32,d ɛ cʰ ej d
+mfa_g2p,F2BJRLP3,38,ago,13.32,13.76,ə ɡ ow
+mfa_g2p,F2BJRLP3,39,and,13.86,14.03,æ n
+mfa_g2p,F2BJRLP3,40,for,14.03,14.16,f ɚ
+mfa_g2p,F2BJRLP3,41,last,14.16,14.54,l æ s t
+mfa_g2p,F2BJRLP3,42,year's,14.54,14.81,j ɪ ɹ z
+mfa_g2p,F2BJRLP3,43,legislative,14.81,15.4,l ɛ dʒ ɪ s l ej tʲ ɪ v
+mfa_g2p,F2BJRLP3,44,approval,15.4,15.97,ə p ɹ ʉ v ə ɫ
+mfa_g2p,F2BJRLP3,45,of,16.06,16.19,ə v
+mfa_g2p,F2BJRLP3,46,thirty,16.3,16.55,θ ɝ ɾʲ i
+mfa_g2p,F2BJRLP3,47,five,16.55,16.93,f aj v
+mfa_g2p,F2BJRLP3,48,new,16.93,17.09,ɲ ʉː
+mfa_g2p,F2BJRLP3,49,judgeships,17.09,17.74,dʒ ɐ dʒ ʃ ɪ p s
+mfa_g2p,F2BJRLP3,50,and,18.03,18.2,æ n
+mfa_g2p,F2BJRLP3,51,three,18.2,18.42,θ ɹ iː
+mfa_g2p,F2BJRLP3,52,hundred,18.42,18.79,h ɐ n dʲ ɹ ɪ d
+mfa_g2p,F2BJRLP3,53,million,18.79,19.13,mʲ ɪ ʎ ə n
+mfa_g2p,F2BJRLP3,54,dollars,19.13,19.59,d ɑ l ɚ z
+mfa_g2p,F2BJRLP3,55,to,19.59,19.72,t ə
+mfa_g2p,F2BJRLP3,56,restore,19.72,20.28,ɹ ɪ s t ɒ ɹ
+mfa_g2p,F2BJRLP3,57,crumbling,20.28,20.8,k ɹ ɐ m bʲ ʎ ɪ ŋ
+mfa_g2p,F2BJRLP3,58,court,20.8,21.07,kʰ ɒ ɹ t
+mfa_g2p,F2BJRLP3,59,houses,21.07,21.63,h aw z ɪ z
+mfa_g2p,F2BJRLP3,60,despite,22.18,22.57,dʲ ɪ s p aj t
+mfa_g2p,F2BJRLP3,61,the,22.57,22.66,d̪ ə
+mfa_g2p,F2BJRLP3,62,state's,22.66,23.03,s t ej t s
+mfa_g2p,F2BJRLP3,63,massive,23.03,23.45,m æ s ɪ v
+mfa_g2p,F2BJRLP3,64,budget,23.45,23.87,b ɐ dʒ ɪ t
+mfa_g2p,F2BJRLP3,65,deficit,23.87,24.43,d ɛ f ə s ɪ t
+mfa_g2p,F2BJRLP3,66,hennessy,24.8,25.17,h ɛ ɲ ɪ s i
+mfa_g2p,F2BJRLP3,67,recently,25.17,25.61,ɹ iː s ə n t ʎ i
+mfa_g2p,F2BJRLP3,68,urged,25.61,25.9,ɝ dʒ d
+mfa_g2p,F2BJRLP3,69,colleagues,25.9,26.34,kʰ ɑ ʎ i ɡ z
+mfa_g2p,F2BJRLP3,70,in,26.34,26.43,ɪ n
+mfa_g2p,F2BJRLP3,71,the,26.43,26.49,d̪ ə
+mfa_g2p,F2BJRLP3,72,bar,26.49,26.74,b ɑ ɹ
+mfa_g2p,F2BJRLP3,73,association,26.74,27.56,ə s ow s i ej ʃ ə n
+mfa_g2p,F2BJRLP3,74,not,27.65,28.04,n ɑ t
+mfa_g2p,F2BJRLP3,75,to,28.04,28.08,ə
+mfa_g2p,F2BJRLP3,76,retreat,28.08,28.59,ɹ i tʲ ɹ iː t
+mfa_g2p,F2BJRLP3,77,from,28.73,28.91,f ɹ ə m
+mfa_g2p,F2BJRLP3,78,these,28.91,29.14,d̪ iː z
+mfa_g2p,F2BJRLP3,79,hard,29.14,29.47,h ɑ ɹ d
+mfa_g2p,F2BJRLP3,80,won,29.47,29.74,w ɐ n
+mfa_g2p,F2BJRLP3,81,gains,29.74,30.35,ɟ ej n z
+mfa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,0,i,0.43,0.55,aj
+mfa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,1,said,0.55,0.91,s ɛ d
+mfa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,2,white,0.91,1.49,w aj t
+mfa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,3,not,1.49,1.7,n ɑ t
+mfa_g2p,ISLE_SESS0131_BLOCKD02_01_sprt1,4,bait,1.7,4.125,b ej t
+mfa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,0,i,0.61,0.7,aj
+mfa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,1,said,0.7,1.01,s ɛ d
+mfa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,2,new,1.01,1.29,ɲ ʉː
+mfa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,3,not,1.29,1.75,n ɑ t
+mfa_g2p,ISLE_SESS0131_BLOCKD02_02_sprt1,4,no,1.75,2.25,n ow
+mfa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,0,i,0.21,0.3,aj
+mfa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,1,said,0.3,0.66,s ɛ d
+mfa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,2,bad,0.66,1.17,b æ d
+mfa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,3,not,1.17,1.47,n ɑ t
+mfa_g2p,ISLE_SESS0131_BLOCKD02_03_sprt1,4,bed,1.47,4.5,b ɛ d

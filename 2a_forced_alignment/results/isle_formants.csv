@@ -1,0 +1,16 @@
+utterance,word,vowel,vowel_ms,F1_Hz,F2_Hz,final_stop,final_stop_voiced_share
+D02_01_sprt1,i,AY1,90,424,1903,,
+D02_01_sprt1,said,EH1,80,353,2116,D (130 ms),0.22
+D02_01_sprt1,white,AY1,150,605,1369,T (160 ms),0.0
+D02_01_sprt1,not,AA1,60,561,1234,T (190 ms),0.0
+D02_01_sprt1,bait,EY1,200,438,1885,T (200 ms),0.0
+D02_02_sprt1,i,AY1,70,519,1634,,
+D02_02_sprt1,said,EH1,90,358,2062,D (50 ms),1.0
+D02_02_sprt1,new,UW1,230,296,2128,,
+D02_02_sprt1,not,AA1,70,502,1279,T (140 ms),0.0
+D02_02_sprt1,no,OW1,350,354,849,,
+D02_03_sprt1,i,AY1,70,465,1838,,
+D02_03_sprt1,said,EH1,70,382,2294,D (160 ms),0.82
+D02_03_sprt1,bad,AE1,220,586,1808,D (250 ms),0.0
+D02_03_sprt1,not,AA1,70,489,1215,T (130 ms),0.0
+D02_03_sprt1,bed,EH1,180,527,1866,D (250 ms),0.0

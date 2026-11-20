@@ -1,0 +1,13 @@
+# (leading "/" = only at the top level of the repo)
+
+# provided assignment material (licensed audio) and the downloaded zip
+/Ass_2/
+/Assignment_2.zip
+
+# TESS dataset and cached features / checkpoints (several GB)
+/data/
+/work/
+
+# each part has its own .gitignore as well
+__pycache__/
+*.pyc

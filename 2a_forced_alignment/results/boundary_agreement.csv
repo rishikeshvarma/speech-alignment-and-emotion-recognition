@@ -1,0 +1,15 @@
+compared_to_arpa_g2p,speaker,boundaries,mean_ms,median_ms,max_ms,within_20ms,within_50ms
+arpa_base,all,488,0.6,0.0,20,99%,100%
+arpa_base,f2b,458,0.7,0.0,20,99%,100%
+arpa_base,isle,30,0.0,0.0,0,100%,100%
+arpa_g2p_adapted,all,488,0.1,0.0,10,100%,100%
+arpa_g2p_adapted,f2b,458,0.1,0.0,10,100%,100%
+arpa_g2p_adapted,isle,30,0.0,0.0,0,100%,100%
+arpa_g2p_finetune,all,488,0.1,0.0,10,100%,100%
+arpa_g2p_finetune,f2b,458,0.1,0.0,10,100%,100%
+arpa_g2p_finetune,isle,30,0.0,0.0,0,100%,100%
+isle_variants,all,30,6.3,0.0,160,93%,97%
+isle_variants,isle,30,6.3,0.0,160,93%,97%
+mfa_g2p,all,488,18.4,10.0,2460,90%,96%
+mfa_g2p,f2b,458,8.3,10.0,250,92%,98%
+mfa_g2p,isle,30,172.8,10.0,2460,63%,77%

@@ -1,0 +1,8 @@
+# TESS audio (CC BY-NC-ND - download it from Kaggle), cached features and checkpoints live outside the repo
+*.wav
+*.npy
+*.npz
+*.pt
+
+__pycache__/
+*.pyc

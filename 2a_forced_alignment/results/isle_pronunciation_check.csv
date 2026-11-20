@@ -1,0 +1,16 @@
+utterance,word,canonical,aligner chose,verdict,other options
+D02_01_sprt1,i,AY1,AY1,canonical,
+D02_01_sprt1,said,S EH1 D,S EH1 D,canonical,S EH1 T
+D02_01_sprt1,white,W AY1 T,W AY1 T,canonical,V AY1 T / W AY1 D
+D02_01_sprt1,not,N AA1 T,N AA1 T,canonical,N AO1 T
+D02_01_sprt1,bait,B EY1 T,B EY1 T,canonical,B EH1 T / B EY1 D
+D02_02_sprt1,i,AY1,AY1,canonical,
+D02_02_sprt1,said,S EH1 D,S EH1 D,canonical,S EH1 T
+D02_02_sprt1,new,N UW1,N Y UW1,LEARNER VARIANT,N Y UW1
+D02_02_sprt1,not,N AA1 T,N AA1 T,canonical,N AO1 T
+D02_02_sprt1,no,N OW1,N OW1,canonical,N AO1
+D02_03_sprt1,i,AY1,AY1,canonical,
+D02_03_sprt1,said,S EH1 D,S EH1 D,canonical,S EH1 T
+D02_03_sprt1,bad,B AE1 D,B EH1 T,LEARNER VARIANT,B AE1 T / B EH1 D / B EH1 T
+D02_03_sprt1,not,N AA1 T,N AA1 T,canonical,N AO1 T
+D02_03_sprt1,bed,B EH1 D,B EH1 D,canonical,B EH1 T / B AE1 D

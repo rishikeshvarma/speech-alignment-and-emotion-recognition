@@ -1,0 +1,514 @@
+experiment,utterance,type,label,start,dur_ms
+arpa_base,F2BJRLP1,no pronunciation (spn),dukakis,15.45,550
+arpa_base,F2BJRLP1,word < 80 ms,the [DH AH0],16.95,70
+arpa_base,F2BJRLP1,no pronunciation (spn),melnicove,21.75,530
+arpa_base,F2BJRLP1,phone at 30 ms minimum,DH,2.23,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AH0,2.57,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,S,3.02,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,5.72,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,EH1,6.57,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,7.95,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AO2,8.19,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,8.95,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,10.14,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,IH0,11.39,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,T,13.08,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,IH0,13.72,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AO1,13.91,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,T,14.03,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,14.1,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,T,14.13,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,14.46,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,T,14.49,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,14.65,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,R,16.8,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AH0,16.99,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,17.34,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,N,17.96,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,B,20.67,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AH0,20.7,10
+arpa_base,F2BJRLP1,phone at 30 ms minimum,L,20.71,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AA1,21.5,30
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AH0,23.44,10
+arpa_base,F2BJRLP1,phone at 30 ms minimum,AA1,23.9,30
+arpa_base,F2BJRLP1,pause >= 300 ms,hennessy _ reaches,6.97,390
+arpa_base,F2BJRLP1,pause >= 300 ms,march _ it,12.62,390
+arpa_base,F2BJRLP1,pause >= 300 ms,makes _ during,16.4,310
+arpa_base,F2BJRLP1,pause >= 300 ms,toughest _ as,19.98,380
+arpa_base,F2BJRLP2,no pronunciation (spn),dukakis,2.73,620
+arpa_base,F2BJRLP2,no pronunciation (spn),politicize,5.66,870
+arpa_base,F2BJRLP2,no pronunciation (spn),maffy,23.92,420
+arpa_base,F2BJRLP2,word < 80 ms,the [DH AH0],25.16,70
+arpa_base,F2BJRLP2,phone at 30 ms minimum,N,0.78,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,T,0.81,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,T,1.9,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,UH0,3.68,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,L,3.71,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,N,7.33,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,T,7.36,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,M,7.39,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,N,7.5,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,UW1,10.23,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,AH0,11.06,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,R,13.14,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,ER0,13.17,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,G,15.44,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,T,15.65,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,T,19.07,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,M,19.1,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,AH0,20.21,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,AO1,20.65,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,T,22.2,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,R,24.62,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,D,24.83,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,DH,25.16,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,AH0,25.47,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,UW1,25.61,30
+arpa_base,F2BJRLP2,phone at 30 ms minimum,S,25.82,30
+arpa_base,F2BJRLP2,pause >= 300 ms,court _ for,12.33,700
+arpa_base,F2BJRLP2,pause >= 300 ms,career _ that,16.1,350
+arpa_base,F2BJRLP2,pause >= 300 ms,one _ that,22.65,510
+arpa_base,F2BJRLP2,pause >= 300 ms,association _ was,26.86,340
+arpa_base,F2BJRLP3,word < 80 ms,the [DH AH0],26.42,70
+arpa_base,F2BJRLP3,phone at 30 ms minimum,T,1.37,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,N,1.54,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,AO1,2.46,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,EH1,3.56,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,R,5.19,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,G,5.61,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,IH1,7.01,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,T,7.37,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,IH0,7.4,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,D,10.59,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,R,11.07,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,T,11.83,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,AE1,12.46,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,B,12.56,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,D,13.28,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,L,15.15,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,D,18.18,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,AO1,20.93,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,T,21.04,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,EH1,24.87,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,N,25.42,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,D,25.88,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,AH0,26.46,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,R,28.38,30
+arpa_base,F2BJRLP3,phone at 30 ms minimum,T,28.56,30
+arpa_base,F2BJRLP3,pause >= 300 ms,opinions _ hennessy,3.16,320
+arpa_base,F2BJRLP3,pause >= 300 ms,abilities _ admirers,8.12,410
+arpa_base,F2BJRLP3,pause >= 300 ms,judgeships _ and,17.73,320
+arpa_base,F2BJRLP3,pause >= 300 ms,houses _ despite,21.63,540
+arpa_base,F2BJRLP3,pause >= 300 ms,deficit _ hennessy,24.42,370
+arpa_g2p,F2BJRLP1,word < 80 ms,the [DH AH0],16.95,70
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,DH,2.23,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AH0,2.57,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,S,3.02,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,5.72,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,EH1,6.57,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,7.95,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AO2,8.19,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,8.95,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,10.14,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,IH0,11.39,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,T,13.08,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,IH0,13.72,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AO1,13.91,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,T,14.03,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,14.1,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,T,14.13,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,14.46,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,T,14.49,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,14.65,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,L,15.41,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,R,16.8,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AH0,16.99,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,17.34,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,N,17.96,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,B,20.67,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AH0,20.7,10
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,L,20.71,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AA1,21.5,30
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AH0,23.44,10
+arpa_g2p,F2BJRLP1,phone at 30 ms minimum,AA1,23.9,30
+arpa_g2p,F2BJRLP1,pause >= 300 ms,hennessy _ reaches,6.97,390
+arpa_g2p,F2BJRLP1,pause >= 300 ms,march _ it,12.62,390
+arpa_g2p,F2BJRLP1,pause >= 300 ms,makes _ during,16.4,310
+arpa_g2p,F2BJRLP1,pause >= 300 ms,toughest _ as,19.98,380
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,N,0.78,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,T,0.81,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,T,1.9,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,L,2.69,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,UH0,3.68,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,L,3.71,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,N,7.33,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,T,7.36,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,M,7.39,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,N,7.5,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,UW1,10.23,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,AH0,11.06,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,R,13.14,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,ER0,13.17,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,IH1,13.62,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,G,15.44,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,T,15.65,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,T,19.07,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,M,19.1,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,AH0,20.21,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,AO1,20.65,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,T,22.2,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,R,24.62,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,D,24.83,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,AH0,25.47,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,UW1,25.61,30
+arpa_g2p,F2BJRLP2,phone at 30 ms minimum,S,25.82,30
+arpa_g2p,F2BJRLP2,pause >= 300 ms,court _ for,12.33,700
+arpa_g2p,F2BJRLP2,pause >= 300 ms,career _ that,16.1,350
+arpa_g2p,F2BJRLP2,pause >= 300 ms,one _ that,22.65,510
+arpa_g2p,F2BJRLP2,pause >= 300 ms,association _ was,26.86,340
+arpa_g2p,F2BJRLP3,word < 80 ms,the [DH AH0],26.42,70
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,T,1.37,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,N,1.54,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,AO1,2.46,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,EH1,3.56,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,R,5.19,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,G,5.61,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,IH1,7.01,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,T,7.37,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,IH0,7.4,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,D,10.59,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,R,11.07,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,T,11.83,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,AE1,12.46,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,B,12.56,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,D,13.28,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,L,15.15,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,D,18.18,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,IH1,18.85,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,AO1,20.93,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,T,21.04,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,EH1,24.87,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,N,25.42,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,D,25.88,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,AH0,26.46,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,R,28.38,30
+arpa_g2p,F2BJRLP3,phone at 30 ms minimum,T,28.56,30
+arpa_g2p,F2BJRLP3,pause >= 300 ms,opinions _ hennessy,3.16,320
+arpa_g2p,F2BJRLP3,pause >= 300 ms,abilities _ admirers,8.12,410
+arpa_g2p,F2BJRLP3,pause >= 300 ms,judgeships _ and,17.73,320
+arpa_g2p,F2BJRLP3,pause >= 300 ms,houses _ despite,21.63,540
+arpa_g2p,F2BJRLP3,pause >= 300 ms,deficit _ hennessy,24.42,370
+arpa_g2p_adapted,F2BJRLP1,word < 80 ms,the [DH AH0],16.95,70
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,DH,2.23,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AH0,2.57,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,S,3.02,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,5.72,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,EH1,6.57,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,7.95,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AO2,8.19,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,8.95,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,10.14,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,IH0,11.39,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,T,13.08,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,IH0,13.72,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AO1,13.91,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,T,14.03,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,14.1,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,T,14.13,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,14.46,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,T,14.49,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,14.65,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,L,15.41,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,R,16.8,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AH0,16.99,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,17.34,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,N,17.96,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,B,20.67,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AH0,20.7,10
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,L,20.71,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AA1,21.5,30
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AH0,23.44,10
+arpa_g2p_adapted,F2BJRLP1,phone at 30 ms minimum,AA1,23.9,30
+arpa_g2p_adapted,F2BJRLP1,pause >= 300 ms,hennessy _ reaches,6.97,390
+arpa_g2p_adapted,F2BJRLP1,pause >= 300 ms,march _ it,12.62,390
+arpa_g2p_adapted,F2BJRLP1,pause >= 300 ms,makes _ during,16.4,310
+arpa_g2p_adapted,F2BJRLP1,pause >= 300 ms,toughest _ as,19.98,380
+arpa_g2p_adapted,F2BJRLP2,word < 80 ms,the [DH AH0],25.16,70
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,N,0.78,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,T,0.81,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,T,1.9,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,L,2.69,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,UH0,3.68,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,L,3.71,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,N,7.33,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,T,7.36,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,M,7.39,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,N,7.5,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,UW1,10.23,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,AH0,11.06,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,R,13.14,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,ER0,13.17,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,G,15.44,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,T,15.65,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,T,19.07,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,M,19.1,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,AH0,20.21,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,AO1,20.65,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,T,22.2,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,R,24.62,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,D,24.83,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,DH,25.16,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,AH0,25.47,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,UW1,25.61,30
+arpa_g2p_adapted,F2BJRLP2,phone at 30 ms minimum,S,25.82,30
+arpa_g2p_adapted,F2BJRLP2,pause >= 300 ms,court _ for,12.33,700
+arpa_g2p_adapted,F2BJRLP2,pause >= 300 ms,career _ that,16.1,350
+arpa_g2p_adapted,F2BJRLP2,pause >= 300 ms,one _ that,22.65,510
+arpa_g2p_adapted,F2BJRLP2,pause >= 300 ms,association _ was,26.86,340
+arpa_g2p_adapted,F2BJRLP3,word < 80 ms,the [DH AH0],26.42,70
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,T,1.37,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,N,1.54,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,AO1,2.46,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,EH1,3.56,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,R,5.19,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,G,5.61,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,IH1,7.01,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,T,7.37,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,IH0,7.4,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,D,10.59,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,R,11.07,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,T,11.83,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,AE1,12.46,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,B,12.56,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,D,13.28,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,L,15.15,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,D,18.18,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,IH1,18.85,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,AO1,20.93,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,T,21.04,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,EH1,24.87,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,N,25.42,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,D,25.88,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,AH0,26.46,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,R,28.38,30
+arpa_g2p_adapted,F2BJRLP3,phone at 30 ms minimum,T,28.56,30
+arpa_g2p_adapted,F2BJRLP3,pause >= 300 ms,opinions _ hennessy,3.16,320
+arpa_g2p_adapted,F2BJRLP3,pause >= 300 ms,abilities _ admirers,8.12,410
+arpa_g2p_adapted,F2BJRLP3,pause >= 300 ms,judgeships _ and,17.73,320
+arpa_g2p_adapted,F2BJRLP3,pause >= 300 ms,houses _ despite,21.63,540
+arpa_g2p_adapted,F2BJRLP3,pause >= 300 ms,deficit _ hennessy,24.42,370
+arpa_g2p_finetune,F2BJRLP1,word < 80 ms,the [DH AH0],16.95,70
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,DH,2.23,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AH0,2.57,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,S,3.02,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,5.72,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,EH1,6.57,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,7.95,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AO2,8.19,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,8.95,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,10.14,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,IH0,11.39,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,T,13.08,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,IH0,13.72,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AO1,13.91,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,T,14.03,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,14.1,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,T,14.13,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,14.46,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,T,14.49,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,14.65,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,L,15.41,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,R,16.8,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AH0,16.99,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,17.34,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,N,17.96,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,B,20.67,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AH0,20.7,10
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,L,20.71,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AA1,21.5,30
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AH0,23.44,10
+arpa_g2p_finetune,F2BJRLP1,phone at 30 ms minimum,AA1,23.9,30
+arpa_g2p_finetune,F2BJRLP1,pause >= 300 ms,hennessy _ reaches,6.97,390
+arpa_g2p_finetune,F2BJRLP1,pause >= 300 ms,march _ it,12.62,390
+arpa_g2p_finetune,F2BJRLP1,pause >= 300 ms,makes _ during,16.4,310
+arpa_g2p_finetune,F2BJRLP1,pause >= 300 ms,toughest _ as,19.98,380
+arpa_g2p_finetune,F2BJRLP2,word < 80 ms,the [DH AH0],25.16,70
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,N,0.78,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,T,0.81,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,T,1.9,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,L,2.69,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,UH0,3.68,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,L,3.71,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,N,7.33,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,T,7.36,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,M,7.39,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,N,7.5,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,UW1,10.23,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,AH0,11.06,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,R,13.14,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,ER0,13.17,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,IH1,13.62,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,G,15.44,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,T,15.65,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,T,19.07,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,M,19.1,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,AH0,20.21,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,AO1,20.65,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,T,22.2,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,R,24.62,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,D,24.83,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,DH,25.16,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,AH0,25.47,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,UW1,25.61,30
+arpa_g2p_finetune,F2BJRLP2,phone at 30 ms minimum,S,25.82,30
+arpa_g2p_finetune,F2BJRLP2,pause >= 300 ms,court _ for,12.33,700
+arpa_g2p_finetune,F2BJRLP2,pause >= 300 ms,career _ that,16.1,350
+arpa_g2p_finetune,F2BJRLP2,pause >= 300 ms,one _ that,22.65,510
+arpa_g2p_finetune,F2BJRLP2,pause >= 300 ms,association _ was,26.86,340
+arpa_g2p_finetune,F2BJRLP3,word < 80 ms,the [DH AH0],26.42,70
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,T,1.37,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,N,1.54,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,AO1,2.46,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,EH1,3.56,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,R,5.19,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,G,5.61,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,IH1,7.01,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,T,7.37,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,IH0,7.4,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,D,10.59,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,R,11.07,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,T,11.83,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,AE1,12.46,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,B,12.56,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,D,13.28,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,L,15.15,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,D,18.18,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,IH1,18.85,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,AO1,20.93,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,T,21.04,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,EH1,24.87,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,N,25.42,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,D,25.88,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,AH0,26.46,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,R,28.38,30
+arpa_g2p_finetune,F2BJRLP3,phone at 30 ms minimum,T,28.56,30
+arpa_g2p_finetune,F2BJRLP3,pause >= 300 ms,opinions _ hennessy,3.16,320
+arpa_g2p_finetune,F2BJRLP3,pause >= 300 ms,abilities _ admirers,8.12,410
+arpa_g2p_finetune,F2BJRLP3,pause >= 300 ms,judgeships _ and,17.73,320
+arpa_g2p_finetune,F2BJRLP3,pause >= 300 ms,houses _ despite,21.63,540
+arpa_g2p_finetune,F2BJRLP3,pause >= 300 ms,deficit _ hennessy,24.42,370
+mfa_g2p,F2BJRLP1,word < 80 ms,the [d̪ ə],16.96,60
+mfa_g2p,F2BJRLP1,word < 80 ms,of [ə v],17.52,70
+mfa_g2p,F2BJRLP1,word < 80 ms,to [t ə],24.5,80
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,tʲ,1.85,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ə,2.57,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,s,3.01,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ʉ,3.11,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ɹ,5.62,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,n,7.96,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,n,8.95,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ɪ,11.39,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,d,11.42,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ə,11.52,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,t,13.08,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ɪ,13.72,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,t,14.03,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,n,14.1,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,t,14.13,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,m,14.53,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ə,15.38,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ɫ,15.41,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ʊ,16.76,20
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,d̪,16.96,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ə,16.99,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,n,17.34,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ə,17.52,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,n,17.96,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,n,19.14,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ɛ,21.8,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ɫ,23.47,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ɑ,23.91,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,t,24.47,30
+mfa_g2p,F2BJRLP1,phone at 30 ms minimum,ə,24.55,30
+mfa_g2p,F2BJRLP1,pause >= 300 ms,hennessy _ reaches,6.97,380
+mfa_g2p,F2BJRLP1,pause >= 300 ms,march _ it,12.62,380
+mfa_g2p,F2BJRLP1,pause >= 300 ms,toughest _ as,20.0,350
+mfa_g2p,F2BJRLP2,word < 80 ms,of [ə v],25.06,70
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,n,0.31,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,n,0.78,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,tʲ,0.81,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,tʲ,1.9,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,n,2.28,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ə,2.66,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɫ,2.69,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,m,4.36,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɪ,5.9,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,tʲ,5.93,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,m,7.39,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,bʲ,8.8,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ʉ,11.06,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɫ,11.83,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɐ,13.8,20
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɪ,15.53,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,t,15.67,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ʉː,18.59,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,m,19.1,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ʉ,20.21,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɒ,20.66,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,n,21.49,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,n,21.63,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,tʲ,22.2,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,d,24.83,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,v,25.1,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ə,25.47,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ʉː,25.61,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɐ,27.25,20
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,ɲ,27.46,30
+mfa_g2p,F2BJRLP2,phone at 30 ms minimum,l,28.15,30
+mfa_g2p,F2BJRLP2,pause >= 300 ms,court _ for,12.33,700
+mfa_g2p,F2BJRLP2,pause >= 300 ms,career _ that,16.1,330
+mfa_g2p,F2BJRLP2,pause >= 300 ms,one _ that,22.65,510
+mfa_g2p,F2BJRLP2,pause >= 300 ms,association _ was,26.86,340
+mfa_g2p,F2BJRLP3,word < 80 ms,of [ə v],10.23,70
+mfa_g2p,F2BJRLP3,word < 80 ms,the [d̪ ə],26.43,60
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,t,1.37,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ʉ,2.1,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɒ,2.46,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ə,2.59,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɛ,3.56,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɒ,5.2,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɡ,5.61,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,p,6.37,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,n,6.59,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɪ,7.01,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,tʲ,7.37,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɪ,7.4,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɪ,7.79,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɲ,9.68,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,v,10.27,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ə,10.35,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,dʲ,10.59,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɒ,11.08,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɒ,11.71,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,t,11.83,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ð,12.42,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,n,12.84,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,tʲ,15.26,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ə,15.76,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɪ,18.85,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɒ,20.93,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,t,21.04,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɪ,22.22,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ə,22.63,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɛ,24.87,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,n,25.43,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,d,25.87,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,d̪,26.43,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ə,26.46,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,t,28.56,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ɹ,28.79,30
+mfa_g2p,F2BJRLP3,phone at 30 ms minimum,ə,28.82,30
+mfa_g2p,F2BJRLP3,pause >= 300 ms,opinions _ hennessy,3.17,320
+mfa_g2p,F2BJRLP3,pause >= 300 ms,abilities _ admirers,8.14,390
+mfa_g2p,F2BJRLP3,pause >= 300 ms,houses _ despite,21.63,550
+mfa_g2p,F2BJRLP3,pause >= 300 ms,deficit _ hennessy,24.43,370

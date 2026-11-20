@@ -1,0 +1,12 @@
+# Python 3.10. Install PyTorch for your CUDA version first, e.g.
+#   pip install torch==2.11.0 torchaudio==2.11.0 --index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0
+torchaudio==2.11.0
+transformers==5.20.2
+librosa==0.11.0
+soundfile==0.14.0
+numpy==2.2.6
+scipy==1.15.3
+scikit-learn==1.7.2
+pandas==2.3.3
+matplotlib==3.10.9
